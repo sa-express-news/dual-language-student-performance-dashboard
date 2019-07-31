@@ -1,0 +1,4871 @@
+{
+    "1": {
+      "id": 1,
+      "name": "SAMUEL CLEMENS H S",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 2656,
+      "ell_pop": 61,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 94.2
+    },
+    "2": {
+      "id": 2,
+      "name": "ALLISON L STEELE E L C",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 80,
+      "ell_pop": 1,
+      "total_attn_rate": 92.9,
+      "ell_attn_rate": -1
+    },
+    "3": {
+      "id": 3,
+      "name": "BYRON P STEELE II H S",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 2391,
+      "ell_pop": 30,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.5
+    },
+    "4": {
+      "id": 4,
+      "name": "RAY D CORBETT J H",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 1200,
+      "ell_pop": 57,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 95.7
+    },
+    "5": {
+      "id": 5,
+      "name": "DOBIE J H",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 1253,
+      "ell_pop": 24,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 96.9
+    },
+    "6": {
+      "id": 6,
+      "name": "WIEDERSTEIN EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 798,
+      "ell_pop": 16,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 94.3
+    },
+    "7": {
+      "id": 7,
+      "name": "ROSE GARDEN EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 535,
+      "ell_pop": 11,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.3
+    },
+    "8": {
+      "id": 8,
+      "name": "SCHERTZ EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 780,
+      "ell_pop": 138,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 95.6
+    },
+    "9": {
+      "id": 9,
+      "name": "LAURA INGALLS WILDER INT",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 826,
+      "ell_pop": 69,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 97.1
+    },
+    "10": {
+      "id": 10,
+      "name": "BARBARA JORDAN INT",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 689,
+      "ell_pop": 12,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 96.3
+    },
+    "11": {
+      "id": 11,
+      "name": "WATTS EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 608,
+      "ell_pop": 10,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 97.2
+    },
+    "12": {
+      "id": 12,
+      "name": "NORMA J PASCHAL EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 667,
+      "ell_pop": 7,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 98.5
+    },
+    "13": {
+      "id": 13,
+      "name": "GREEN VALLEY EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 735,
+      "ell_pop": 18,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 96.1
+    },
+    "14": {
+      "id": 14,
+      "name": "JOHN A SIPPEL EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 733,
+      "ell_pop": 10,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 95.8
+    },
+    "15": {
+      "id": 15,
+      "name": "ELAINE S SCHLATHER INT",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 737,
+      "ell_pop": 10,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.1
+    },
+    "16": {
+      "id": 16,
+      "name": "CIBOLO VALLEY EL",
+      "district": "SCHERTZ-CIBOLO-U CITY ISD",
+      "total_pop": 927,
+      "ell_pop": 98,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 96.5
+    },
+    "17": {
+      "id": 17,
+      "name": "IDEA CARVER COLLEGE PREPARATORY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 505,
+      "ell_pop": 56,
+      "total_attn_rate": 98,
+      "ell_attn_rate": 99.1
+    },
+    "18": {
+      "id": 18,
+      "name": "IDEA SOUTH FLORES COLLEGE PREPARAT",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 596,
+      "ell_pop": 78,
+      "total_attn_rate": 97.6,
+      "ell_attn_rate": 98.6
+    },
+    "19": {
+      "id": 19,
+      "name": "IDEA MONTERREY PARK COLLEGE PREPAR",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 476,
+      "ell_pop": 19,
+      "total_attn_rate": 97.8,
+      "ell_attn_rate": 98.5
+    },
+    "20": {
+      "id": 20,
+      "name": "IDEA WALZEM COLLEGE PREPARATORY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 438,
+      "ell_pop": 30,
+      "total_attn_rate": 97.2,
+      "ell_attn_rate": 96.9
+    },
+    "21": {
+      "id": 21,
+      "name": "IDEA EASTSIDE COLLEGE PREPARATORY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 336,
+      "ell_pop": 41,
+      "total_attn_rate": 97.5,
+      "ell_attn_rate": 98.1
+    },
+    "22": {
+      "id": 22,
+      "name": "IDEA JUDSON COLLEGE PREPARATORY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 233,
+      "ell_pop": 34,
+      "total_attn_rate": 97.5,
+      "ell_attn_rate": 98
+    },
+    "23": {
+      "id": 23,
+      "name": "IDEA MAYS COLLEGE PREPARATORY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 238,
+      "ell_pop": 21,
+      "total_attn_rate": 97.9,
+      "ell_attn_rate": 98.8
+    },
+    "24": {
+      "id": 24,
+      "name": "IDEA NAJIM COLLEGE PREPARATORY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 101,
+      "ell_pop": 13,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "25": {
+      "id": 25,
+      "name": "IDEA BRACKENRIDGE COLLEGE PREPARAT",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 118,
+      "ell_pop": 18,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "26": {
+      "id": 26,
+      "name": "IDEA EWING HALSELL COLLEGE PREPARA",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 119,
+      "ell_pop": 13,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "27": {
+      "id": 27,
+      "name": "IDEA CARVER ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 609,
+      "ell_pop": 49,
+      "total_attn_rate": 98,
+      "ell_attn_rate": 98
+    },
+    "28": {
+      "id": 28,
+      "name": "IDEA SOUTH FLORES ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 873,
+      "ell_pop": 74,
+      "total_attn_rate": 97.5,
+      "ell_attn_rate": 97.8
+    },
+    "29": {
+      "id": 29,
+      "name": "IDEA MONTERREY PARK ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 731,
+      "ell_pop": 100,
+      "total_attn_rate": 97.3,
+      "ell_attn_rate": 97.8
+    },
+    "30": {
+      "id": 30,
+      "name": "IDEA WALZEM ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 712,
+      "ell_pop": 67,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 97.7
+    },
+    "31": {
+      "id": 31,
+      "name": "IDEA EASTSIDE ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 608,
+      "ell_pop": 98,
+      "total_attn_rate": 97.5,
+      "ell_attn_rate": 98.5
+    },
+    "32": {
+      "id": 32,
+      "name": "IDEA JUDSON ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 512,
+      "ell_pop": 67,
+      "total_attn_rate": 97.2,
+      "ell_attn_rate": 97.7
+    },
+    "33": {
+      "id": 33,
+      "name": "IDEA MAYS ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 483,
+      "ell_pop": 37,
+      "total_attn_rate": 97.3,
+      "ell_attn_rate": 97.1
+    },
+    "34": {
+      "id": 34,
+      "name": "IDEA NAJIM ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 376,
+      "ell_pop": 38,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "35": {
+      "id": 35,
+      "name": "IDEA BRACKENRIDGE ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 400,
+      "ell_pop": 39,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "36": {
+      "id": 36,
+      "name": "IDEA EWING HALSELL ACADEMY",
+      "district": "IDEA PUBLIC SCHOOLS",
+      "total_pop": 374,
+      "ell_pop": 20,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "37": {
+      "id": 37,
+      "name": "POR VIDA ACADEMY CHARTER H S",
+      "district": "POR VIDA ACADEMY",
+      "total_pop": 118,
+      "ell_pop": 0,
+      "total_attn_rate": 77.6,
+      "ell_attn_rate": null
+    },
+    "38": {
+      "id": 38,
+      "name": "CESAR E CHAVEZ ACADEMY",
+      "district": "POR VIDA ACADEMY",
+      "total_pop": 83,
+      "ell_pop": 0,
+      "total_attn_rate": 80.3,
+      "ell_attn_rate": -1
+    },
+    "39": {
+      "id": 39,
+      "name": "GEORGE GERVIN ACADEMY",
+      "district": "GEORGE GERVIN ACADEMY",
+      "total_pop": 1208,
+      "ell_pop": 243,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 98.4
+    },
+    "40": {
+      "id": 40,
+      "name": "RUTH JONES MCCLENDON MIDDLE",
+      "district": "GEORGE GERVIN ACADEMY",
+      "total_pop": 149,
+      "ell_pop": 9,
+      "total_attn_rate": 94.2,
+      "ell_attn_rate": -1
+    },
+    "41": {
+      "id": 41,
+      "name": "FRANK L MADLA EARLY COLLEGE H S",
+      "district": "NEW FRONTIERS PUBLIC SCHOOLS INC",
+      "total_pop": 220,
+      "ell_pop": 12,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 94.7
+    },
+    "42": {
+      "id": 42,
+      "name": "FRANK L MADLA ACCELERATED COLLEGIA",
+      "district": "NEW FRONTIERS PUBLIC SCHOOLS INC",
+      "total_pop": 486,
+      "ell_pop": 52,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 96.6
+    },
+    "43": {
+      "id": 43,
+      "name": "MILTON B LEE ACADEMY OF SCIENCE &",
+      "district": "SCHOOL OF EXCELLENCE IN EDUCATION",
+      "total_pop": 129,
+      "ell_pop": 3,
+      "total_attn_rate": 93.3,
+      "ell_attn_rate": 93.6
+    },
+    "44": {
+      "id": 44,
+      "name": "DR PAUL S SAENZ J H",
+      "district": "SCHOOL OF EXCELLENCE IN EDUCATION",
+      "total_pop": 73,
+      "ell_pop": 10,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 97
+    },
+    "45": {
+      "id": 45,
+      "name": "DR HARMON W KELLEY EL",
+      "district": "SCHOOL OF EXCELLENCE IN EDUCATION",
+      "total_pop": 301,
+      "ell_pop": 104,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 96.6
+    },
+    "46": {
+      "id": 46,
+      "name": "DR DAVID C WALKER EL",
+      "district": "SCHOOL OF EXCELLENCE IN EDUCATION",
+      "total_pop": 164,
+      "ell_pop": 17,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.7
+    },
+    "47": {
+      "id": 47,
+      "name": "SOUTHWEST PREPARATORY SCHOOL",
+      "district": "SOUTHWEST PREPARATORY SCHOOL",
+      "total_pop": 86,
+      "ell_pop": 13,
+      "total_attn_rate": 91.9,
+      "ell_attn_rate": -1
+    },
+    "48": {
+      "id": 48,
+      "name": "SOUTHWEST PREPARATORY SOUTHEAST CA",
+      "district": "SOUTHWEST PREPARATORY SCHOOL",
+      "total_pop": 213,
+      "ell_pop": 24,
+      "total_attn_rate": 93.8,
+      "ell_attn_rate": 95.5
+    },
+    "49": {
+      "id": 49,
+      "name": "SOUTHWEST PREPARATORY SCHOOL-NORTH",
+      "district": "SOUTHWEST PREPARATORY SCHOOL",
+      "total_pop": 209,
+      "ell_pop": 32,
+      "total_attn_rate": 90.6,
+      "ell_attn_rate": 93.3
+    },
+    "50": {
+      "id": 50,
+      "name": "NEW DIRECTIONS",
+      "district": "SOUTHWEST PREPARATORY SCHOOL",
+      "total_pop": 141,
+      "ell_pop": 9,
+      "total_attn_rate": 92.9,
+      "ell_attn_rate": 94.2
+    },
+    "51": {
+      "id": 51,
+      "name": "SOUTHWEST PREP NORTHWEST EL",
+      "district": "SOUTHWEST PREPARATORY SCHOOL",
+      "total_pop": 86,
+      "ell_pop": 23,
+      "total_attn_rate": 92.8,
+      "ell_attn_rate": 94.9
+    },
+    "52": {
+      "id": 52,
+      "name": "SEGUIN EL",
+      "district": "SOUTHWEST PREPARATORY SCHOOL",
+      "total_pop": 144,
+      "ell_pop": 6,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": -1
+    },
+    "53": {
+      "id": 53,
+      "name": "JHW INSPIRE ACADEMY - AFTON OAKS",
+      "district": "INSPIRE ACADEMIES",
+      "total_pop": 138,
+      "ell_pop": 6,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "54": {
+      "id": 54,
+      "name": "ANNE FRANK INSPIRE ACADEMY",
+      "district": "INSPIRE ACADEMIES",
+      "total_pop": 375,
+      "ell_pop": 0,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": null
+    },
+    "55": {
+      "id": 55,
+      "name": "BEXAR COUNTY ACADEMY",
+      "district": "BEXAR COUNTY ACADEMY",
+      "total_pop": 374,
+      "ell_pop": 96,
+      "total_attn_rate": 94.1,
+      "ell_attn_rate": 95.8
+    },
+    "56": {
+      "id": 56,
+      "name": "POSITIVE SOLUTIONS CHARTER",
+      "district": "POSITIVE SOLUTIONS CHARTER SCHOOL",
+      "total_pop": 125,
+      "ell_pop": 8,
+      "total_attn_rate": 81.3,
+      "ell_attn_rate": 83.5
+    },
+    "57": {
+      "id": 57,
+      "name": "HERITAGE ACADEMY OF WINDCREST",
+      "district": "HERITAGE ACADEMY",
+      "total_pop": 172,
+      "ell_pop": 12,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 95.6
+    },
+    "58": {
+      "id": 58,
+      "name": "HERITAGE ACADEMY OF SAN ANTONIO",
+      "district": "HERITAGE ACADEMY",
+      "total_pop": 37,
+      "ell_pop": 2,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": -1
+    },
+    "59": {
+      "id": 59,
+      "name": "JUBILEE SAN ANTONIO",
+      "district": "JUBILEE ACADEMIES",
+      "total_pop": 1150,
+      "ell_pop": 124,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 96
+    },
+    "60": {
+      "id": 60,
+      "name": "JUBILEE HIGHLAND HILLS",
+      "district": "JUBILEE ACADEMIES",
+      "total_pop": 909,
+      "ell_pop": 106,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.7
+    },
+    "61": {
+      "id": 61,
+      "name": "JUBILEE HIGHLAND PARK",
+      "district": "JUBILEE ACADEMIES",
+      "total_pop": 299,
+      "ell_pop": 8,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 97.6
+    },
+    "62": {
+      "id": 62,
+      "name": "JUBILEE LEADERSHIP ACADEMY",
+      "district": "JUBILEE ACADEMIES",
+      "total_pop": 218,
+      "ell_pop": 120,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "63": {
+      "id": 63,
+      "name": "LIGHTHOUSE CHARTER SCHOOL - B CAMP",
+      "district": "LIGHTHOUSE CHARTER SCHOOL",
+      "total_pop": 219,
+      "ell_pop": 42,
+      "total_attn_rate": 94.1,
+      "ell_attn_rate": 93.2
+    },
+    "64": {
+      "id": 64,
+      "name": "LIGHTHOUSE CHARTER SCHOOL",
+      "district": "LIGHTHOUSE CHARTER SCHOOL",
+      "total_pop": 83,
+      "ell_pop": 25,
+      "total_attn_rate": 92.7,
+      "ell_attn_rate": -1
+    },
+    "65": {
+      "id": 65,
+      "name": "KIPP UNIVERSITY PREP H S",
+      "district": "KIPP SAN ANTONIO",
+      "total_pop": 822,
+      "ell_pop": 131,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 94.8
+    },
+    "66": {
+      "id": 66,
+      "name": "KIPP ASPIRE ACADEMY",
+      "district": "KIPP SAN ANTONIO",
+      "total_pop": 501,
+      "ell_pop": 148,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 96.7
+    },
+    "67": {
+      "id": 67,
+      "name": "KIPP CAMINO ACADEMY",
+      "district": "KIPP SAN ANTONIO",
+      "total_pop": 466,
+      "ell_pop": 156,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.9
+    },
+    "68": {
+      "id": 68,
+      "name": "KIPP PODER ACADEMY",
+      "district": "KIPP SAN ANTONIO",
+      "total_pop": 345,
+      "ell_pop": 124,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.2
+    },
+    "69": {
+      "id": 69,
+      "name": "KIPP UN MUNDO DUAL LANGUAGE ACADEM",
+      "district": "KIPP SAN ANTONIO",
+      "total_pop": 618,
+      "ell_pop": 257,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.5
+    },
+    "70": {
+      "id": 70,
+      "name": "KIPP ESPERANZA DUAL LANGUAGE ACADE",
+      "district": "KIPP SAN ANTONIO",
+      "total_pop": 501,
+      "ell_pop": 178,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.7
+    },
+    "71": {
+      "id": 71,
+      "name": "SCHOOL OF SCIENCE AND TECHNOLOGY",
+      "district": "SCHOOL OF SCIENCE AND TECHNOLOGY",
+      "total_pop": 484,
+      "ell_pop": 33,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96
+    },
+    "72": {
+      "id": 72,
+      "name": "SCHOOL OF SCIENCE AND TECHNOLOGY -",
+      "district": "SCHOOL OF SCIENCE AND TECHNOLOGY",
+      "total_pop": 430,
+      "ell_pop": 42,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 97
+    },
+    "73": {
+      "id": 73,
+      "name": "SCHOOL OF SCIENCE AND TECHNOLOGY E",
+      "district": "SCHOOL OF SCIENCE AND TECHNOLOGY",
+      "total_pop": 195,
+      "ell_pop": 52,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "74": {
+      "id": 74,
+      "name": "HARMONY SCIENCE ACAD (SAN ANTONIO)",
+      "district": "HARMONY SCIENCE ACAD (SAN ANTONIO)",
+      "total_pop": 772,
+      "ell_pop": 98,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.6
+    },
+    "75": {
+      "id": 75,
+      "name": "HARMONY SCHOOL OF INNOVATION - SAN",
+      "district": "HARMONY SCIENCE ACAD (SAN ANTONIO)",
+      "total_pop": 509,
+      "ell_pop": 69,
+      "total_attn_rate": 94,
+      "ell_attn_rate": 95.9
+    },
+    "76": {
+      "id": 76,
+      "name": "HARMONY SCHOOL OF EXCELLENCE - SAN",
+      "district": "HARMONY SCIENCE ACAD (SAN ANTONIO)",
+      "total_pop": 548,
+      "ell_pop": 97,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 95.6
+    },
+    "77": {
+      "id": 77,
+      "name": "BROOKS ACADEMY OF SCIENCE AND ENGI",
+      "district": "BROOKS ACADEMY OF SCIENCE AND ENGI",
+      "total_pop": 1700,
+      "ell_pop": 119,
+      "total_attn_rate": 94.3,
+      "ell_attn_rate": 95.7
+    },
+    "78": {
+      "id": 78,
+      "name": "BROOKS COLLEGIATE ACADEMY",
+      "district": "BROOKS ACADEMY OF SCIENCE AND ENGI",
+      "total_pop": 928,
+      "ell_pop": 45,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 95.5
+    },
+    "79": {
+      "id": 79,
+      "name": "BROOKS ACADEMY LONESTAR",
+      "district": "BROOKS ACADEMY OF SCIENCE AND ENGI",
+      "total_pop": 95,
+      "ell_pop": 5,
+      "total_attn_rate": 94.1,
+      "ell_attn_rate": 96.7
+    },
+    "80": {
+      "id": 80,
+      "name": "BROOKS ACADEMY OAKS",
+      "district": "BROOKS ACADEMY OF SCIENCE AND ENGI",
+      "total_pop": 175,
+      "ell_pop": 30,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": null
+    },
+    "81": {
+      "id": 81,
+      "name": "SCHOOL OF SCIENCE AND TECHNOLOGY D",
+      "district": "SCHOOL OF SCIENCE AND TECHNOLOGY D",
+      "total_pop": 483,
+      "ell_pop": 55,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.2
+    },
+    "82": {
+      "id": 82,
+      "name": "SCHOOL OF SCIENCE AND TECHNOLOGY C",
+      "district": "SCHOOL OF SCIENCE AND TECHNOLOGY D",
+      "total_pop": 900,
+      "ell_pop": 45,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 95.7
+    },
+    "83": {
+      "id": 83,
+      "name": "SCHOOL OF SCIENCE AND TECHNOLOGY A",
+      "district": "SCHOOL OF SCIENCE AND TECHNOLOGY D",
+      "total_pop": 293,
+      "ell_pop": 57,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 97.7
+    },
+    "84": {
+      "id": 84,
+      "name": "HENRY FORD ACADEMY ALAMEDA SCHOOL",
+      "district": "HENRY FORD ACADEMY ALAMEDA SCHOOL",
+      "total_pop": 137,
+      "ell_pop": 1,
+      "total_attn_rate": 90.6,
+      "ell_attn_rate": -1
+    },
+    "85": {
+      "id": 85,
+      "name": "BASIS SAN ANTONIO- SHAVANO CAMPUS",
+      "district": "BASIS TEXAS",
+      "total_pop": 1028,
+      "ell_pop": 15,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 97.1
+    },
+    "86": {
+      "id": 86,
+      "name": "BASIS SAN ANTONIO- PRI NORTH CENTR",
+      "district": "BASIS TEXAS",
+      "total_pop": 677,
+      "ell_pop": 57,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 96.7
+    },
+    "87": {
+      "id": 87,
+      "name": "BASIS SAN ANTONIO PRI- MEDICAL CEN",
+      "district": "BASIS TEXAS",
+      "total_pop": 747,
+      "ell_pop": 106,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "88": {
+      "id": 88,
+      "name": "GREAT HEARTS MONTE VISTA",
+      "district": "GREAT HEARTS TEXAS",
+      "total_pop": 443,
+      "ell_pop": 9,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 97.7
+    },
+    "89": {
+      "id": 89,
+      "name": "GREAT HEARTS MONTE VISTA NORTH",
+      "district": "GREAT HEARTS TEXAS",
+      "total_pop": 406,
+      "ell_pop": 8,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 98.1
+    },
+    "90": {
+      "id": 90,
+      "name": "GREAT HEARTS NORTHERN OAKS",
+      "district": "GREAT HEARTS TEXAS",
+      "total_pop": 1102,
+      "ell_pop": 47,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 97.2
+    },
+    "91": {
+      "id": 91,
+      "name": "GREAT HEARTS IRVING",
+      "district": "GREAT HEARTS TEXAS",
+      "total_pop": 815,
+      "ell_pop": 75,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 97.3
+    },
+    "92": {
+      "id": 92,
+      "name": "ELEANOR KOLITZ HEBREW LANGUAGE ACA",
+      "district": "ELEANOR KOLITZ HEBREW LANGUAGE ACA",
+      "total_pop": 319,
+      "ell_pop": 14,
+      "total_attn_rate": 96,
+      "ell_attn_rate": -1
+    },
+    "93": {
+      "id": 93,
+      "name": "CARPE DIEM SCHOOLS",
+      "district": "CARPE DIEM SCHOOLS",
+      "total_pop": 226,
+      "ell_pop": 3,
+      "total_attn_rate": 92.9,
+      "ell_attn_rate": -1
+    },
+    "94": {
+      "id": 94,
+      "name": "COMPASS ROSE ACADEMY",
+      "district": "COMPASS ROSE ACADEMY",
+      "total_pop": 90,
+      "ell_pop": 12,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "95": {
+      "id": 95,
+      "name": "ALAMO HEIGHTS H S",
+      "district": "ALAMO HEIGHTS ISD",
+      "total_pop": 1576,
+      "ell_pop": 37,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.2
+    },
+    "96": {
+      "id": 96,
+      "name": "BEXAR CO J J A E P",
+      "district": "ALAMO HEIGHTS ISD",
+      "total_pop": 3,
+      "ell_pop": 0,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "97": {
+      "id": 97,
+      "name": "ALAMO HEIGHTS J H",
+      "district": "ALAMO HEIGHTS ISD",
+      "total_pop": 1100,
+      "ell_pop": 61,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 97.1
+    },
+    "98": {
+      "id": 98,
+      "name": "CAMBRIDGE EL",
+      "district": "ALAMO HEIGHTS ISD",
+      "total_pop": 822,
+      "ell_pop": 63,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 96.8
+    },
+    "99": {
+      "id": 99,
+      "name": "HOWARD EL",
+      "district": "ALAMO HEIGHTS ISD",
+      "total_pop": 369,
+      "ell_pop": 50,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "100": {
+      "id": 100,
+      "name": "WOODRIDGE EL",
+      "district": "ALAMO HEIGHTS ISD",
+      "total_pop": 916,
+      "ell_pop": 53,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 96.4
+    },
+    "101": {
+      "id": 101,
+      "name": "HARLANDALE H S",
+      "district": "HARLANDALE ISD",
+      "total_pop": 1841,
+      "ell_pop": 258,
+      "total_attn_rate": 93.2,
+      "ell_attn_rate": 94
+    },
+    "102": {
+      "id": 102,
+      "name": "MCCOLLUM H S",
+      "district": "HARLANDALE ISD",
+      "total_pop": 1552,
+      "ell_pop": 108,
+      "total_attn_rate": 93.2,
+      "ell_attn_rate": 93.8
+    },
+    "103": {
+      "id": 103,
+      "name": "HAC DAEP H S",
+      "district": "HARLANDALE ISD",
+      "total_pop": 13,
+      "ell_pop": 1,
+      "total_attn_rate": 87.1,
+      "ell_attn_rate": -1
+    },
+    "104": {
+      "id": 104,
+      "name": "FRANK M TEJEDA ACADEMY",
+      "district": "HARLANDALE ISD",
+      "total_pop": 164,
+      "ell_pop": 19,
+      "total_attn_rate": 80.2,
+      "ell_attn_rate": 75.6
+    },
+    "105": {
+      "id": 105,
+      "name": "BEXAR CO J J A E P",
+      "district": "HARLANDALE ISD",
+      "total_pop": 7,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "106": {
+      "id": 106,
+      "name": "HARLANDALE ALTERNATIVE CENTER BOOT",
+      "district": "HARLANDALE ISD",
+      "total_pop": 1,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "107": {
+      "id": 107,
+      "name": "FENLEY TRANSITIONAL H S",
+      "district": "HARLANDALE ISD",
+      "total_pop": 9,
+      "ell_pop": 1,
+      "total_attn_rate": 68.7,
+      "ell_attn_rate": -1
+    },
+    "108": {
+      "id": 108,
+      "name": "HARLANDALE ISD STEM ECHS-ALAMO COL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 359,
+      "ell_pop": 8,
+      "total_attn_rate": 97.6,
+      "ell_attn_rate": 99.1
+    },
+    "109": {
+      "id": 109,
+      "name": "HARLANDALE MIDDLE",
+      "district": "HARLANDALE ISD",
+      "total_pop": 831,
+      "ell_pop": 132,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 95.2
+    },
+    "110": {
+      "id": 110,
+      "name": "A LEAL JR MIDDLE",
+      "district": "HARLANDALE ISD",
+      "total_pop": 822,
+      "ell_pop": 208,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 95.7
+    },
+    "111": {
+      "id": 111,
+      "name": "TERRELL WELLS MIDDLE",
+      "district": "HARLANDALE ISD",
+      "total_pop": 747,
+      "ell_pop": 114,
+      "total_attn_rate": 94.2,
+      "ell_attn_rate": 95.6
+    },
+    "112": {
+      "id": 112,
+      "name": "KINGSBOROUGH MIDDLE",
+      "district": "HARLANDALE ISD",
+      "total_pop": 651,
+      "ell_pop": 96,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.9
+    },
+    "113": {
+      "id": 113,
+      "name": "HAC DAEP MIDDLE",
+      "district": "HARLANDALE ISD",
+      "total_pop": 15,
+      "ell_pop": 3,
+      "total_attn_rate": 87,
+      "ell_attn_rate": -1
+    },
+    "114": {
+      "id": 114,
+      "name": "HARLANDALE ALTERNATIVE CENTER BOOT",
+      "district": "HARLANDALE ISD",
+      "total_pop": 2,
+      "ell_pop": 0,
+      "total_attn_rate": 85.4,
+      "ell_attn_rate": -1
+    },
+    "115": {
+      "id": 115,
+      "name": "FENLEY TRANSITIONAL MIDDLE",
+      "district": "HARLANDALE ISD",
+      "total_pop": 4,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "116": {
+      "id": 116,
+      "name": "TEJEDA JUNIOR ACADEMY",
+      "district": "HARLANDALE ISD",
+      "total_pop": 41,
+      "ell_pop": 3,
+      "total_attn_rate": 85.5,
+      "ell_attn_rate": 88.5
+    },
+    "117": {
+      "id": 117,
+      "name": "CARROLL BELL EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 469,
+      "ell_pop": 116,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.4
+    },
+    "118": {
+      "id": 118,
+      "name": "BELLAIRE EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 648,
+      "ell_pop": 131,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 97.2
+    },
+    "119": {
+      "id": 119,
+      "name": "COLLIER EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 511,
+      "ell_pop": 94,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.4
+    },
+    "120": {
+      "id": 120,
+      "name": "COLUMBIA HEIGHTS EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 435,
+      "ell_pop": 167,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.3
+    },
+    "121": {
+      "id": 121,
+      "name": "STONEWALL/FLANDERS EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 727,
+      "ell_pop": 181,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 96.6
+    },
+    "122": {
+      "id": 122,
+      "name": "V M ADAMS EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 723,
+      "ell_pop": 159,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 96.4
+    },
+    "123": {
+      "id": 123,
+      "name": "GILLETTE EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 614,
+      "ell_pop": 153,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.5
+    },
+    "124": {
+      "id": 124,
+      "name": "H W SCHULZE EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 737,
+      "ell_pop": 73,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.4
+    },
+    "125": {
+      "id": 125,
+      "name": "MORRILL EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 445,
+      "ell_pop": 122,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.9
+    },
+    "126": {
+      "id": 126,
+      "name": "RAYBURN EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 441,
+      "ell_pop": 98,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.7
+    },
+    "127": {
+      "id": 127,
+      "name": "VESTAL EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 463,
+      "ell_pop": 131,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 97.1
+    },
+    "128": {
+      "id": 128,
+      "name": "WRIGHT EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 518,
+      "ell_pop": 90,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 97.6
+    },
+    "129": {
+      "id": 129,
+      "name": "JEWEL C WIETZEL CENTER",
+      "district": "HARLANDALE ISD",
+      "total_pop": 15,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "130": {
+      "id": 130,
+      "name": "E H GILBERT EL",
+      "district": "HARLANDALE ISD",
+      "total_pop": 558,
+      "ell_pop": 74,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 96.8
+    },
+    "131": {
+      "id": 131,
+      "name": "JOHN F KENNEDY H S",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 1172,
+      "ell_pop": 92,
+      "total_attn_rate": 88.6,
+      "ell_attn_rate": 89.7
+    },
+    "132": {
+      "id": 132,
+      "name": "MEMORIAL H S",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 1295,
+      "ell_pop": 181,
+      "total_attn_rate": 89.5,
+      "ell_attn_rate": 89.6
+    },
+    "133": {
+      "id": 133,
+      "name": "BRENTWOOD MIDDLE",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 666,
+      "ell_pop": 103,
+      "total_attn_rate": 91.6,
+      "ell_attn_rate": 93.8
+    },
+    "134": {
+      "id": 134,
+      "name": "ALTERNATIVE CENTER",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 31,
+      "ell_pop": 2,
+      "total_attn_rate": 76.6,
+      "ell_attn_rate": -1
+    },
+    "135": {
+      "id": 135,
+      "name": "E T WRENN MIDDLE",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 646,
+      "ell_pop": 138,
+      "total_attn_rate": 94,
+      "ell_attn_rate": 96.2
+    },
+    "136": {
+      "id": 136,
+      "name": "GUS GARCIA MIDDLE",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 740,
+      "ell_pop": 164,
+      "total_attn_rate": 92.7,
+      "ell_attn_rate": 94.6
+    },
+    "137": {
+      "id": 137,
+      "name": "ROY CISNEROS EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 502,
+      "ell_pop": 158,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.6
+    },
+    "138": {
+      "id": 138,
+      "name": "ALONSO S PERALES EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 474,
+      "ell_pop": 87,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 97.2
+    },
+    "139": {
+      "id": 139,
+      "name": "GARDENDALE EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 486,
+      "ell_pop": 104,
+      "total_attn_rate": 95,
+      "ell_attn_rate": 96.6
+    },
+    "140": {
+      "id": 140,
+      "name": "L B JOHNSON EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 515,
+      "ell_pop": 124,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.3
+    },
+    "141": {
+      "id": 141,
+      "name": "LAS PALMAS EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 455,
+      "ell_pop": 97,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.7
+    },
+    "142": {
+      "id": 142,
+      "name": "LOMA PARK EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 696,
+      "ell_pop": 187,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 97
+    },
+    "143": {
+      "id": 143,
+      "name": "ROOSEVELT EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 497,
+      "ell_pop": 121,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.9
+    },
+    "144": {
+      "id": 144,
+      "name": "STAFFORD EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 492,
+      "ell_pop": 130,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 97
+    },
+    "145": {
+      "id": 145,
+      "name": "WINSTON EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 433,
+      "ell_pop": 82,
+      "total_attn_rate": 95,
+      "ell_attn_rate": 96.9
+    },
+    "146": {
+      "id": 146,
+      "name": "H B GONZALEZ EL",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 423,
+      "ell_pop": 89,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 97.4
+    },
+    "147": {
+      "id": 147,
+      "name": "CARDENAS CENTER",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 362,
+      "ell_pop": 98,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "148": {
+      "id": 148,
+      "name": "STAFFORD CENTER",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 523,
+      "ell_pop": 92,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "149": {
+      "id": 149,
+      "name": "EL DAEP",
+      "district": "EDGEWOOD ISD",
+      "total_pop": 4,
+      "ell_pop": 2,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "150": {
+      "id": 150,
+      "name": "RANDOLPH H S",
+      "district": "RANDOLPH FIELD ISD",
+      "total_pop": 462,
+      "ell_pop": 0,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": null
+    },
+    "151": {
+      "id": 151,
+      "name": "RANDOLPH MIDDLE",
+      "district": "RANDOLPH FIELD ISD",
+      "total_pop": 334,
+      "ell_pop": 1,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": -1
+    },
+    "152": {
+      "id": 152,
+      "name": "RANDOLPH EL",
+      "district": "RANDOLPH FIELD ISD",
+      "total_pop": 653,
+      "ell_pop": 6,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 97.4
+    },
+    "153": {
+      "id": 153,
+      "name": "BRACKENRIDGE H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1717,
+      "ell_pop": 218,
+      "total_attn_rate": 90.7,
+      "ell_attn_rate": 90.2
+    },
+    "154": {
+      "id": 154,
+      "name": "BURBANK H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1253,
+      "ell_pop": 157,
+      "total_attn_rate": 92,
+      "ell_attn_rate": 91.9
+    },
+    "155": {
+      "id": 155,
+      "name": "EDISON H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1609,
+      "ell_pop": 270,
+      "total_attn_rate": 92.5,
+      "ell_attn_rate": 93.1
+    },
+    "156": {
+      "id": 156,
+      "name": "FOX TECHNICAL H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 384,
+      "ell_pop": 18,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 97.1
+    },
+    "157": {
+      "id": 157,
+      "name": "HIGHLANDS H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1808,
+      "ell_pop": 205,
+      "total_attn_rate": 88.7,
+      "ell_attn_rate": 90.6
+    },
+    "158": {
+      "id": 158,
+      "name": "HOUSTON H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1132,
+      "ell_pop": 117,
+      "total_attn_rate": 88.8,
+      "ell_attn_rate": 90.1
+    },
+    "159": {
+      "id": 159,
+      "name": "JEFFERSON H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1739,
+      "ell_pop": 254,
+      "total_attn_rate": 92,
+      "ell_attn_rate": 93
+    },
+    "160": {
+      "id": 160,
+      "name": "LANIER H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 1693,
+      "ell_pop": 311,
+      "total_attn_rate": 86.7,
+      "ell_attn_rate": 87
+    },
+    "161": {
+      "id": 161,
+      "name": "ESTRADA ACHIEVEMENT CTR",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 106,
+      "ell_pop": 9,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "162": {
+      "id": 162,
+      "name": "JJA",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 2,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "163": {
+      "id": 163,
+      "name": "TRAVIS EARLY COLLEGE H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 389,
+      "ell_pop": 3,
+      "total_attn_rate": 97,
+      "ell_attn_rate": -1
+    },
+    "164": {
+      "id": 164,
+      "name": "YOUNG WOMEN'S LEADERSHIP ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 464,
+      "ell_pop": 4,
+      "total_attn_rate": 97.8,
+      "ell_attn_rate": 97.6
+    },
+    "165": {
+      "id": 165,
+      "name": "COOPER ACADEMY AT NAVARRO",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 318,
+      "ell_pop": 20,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "166": {
+      "id": 166,
+      "name": "ST PHILIP'S COLLEGE EARLY COLLEGE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 248,
+      "ell_pop": 17,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 98.2
+    },
+    "167": {
+      "id": 167,
+      "name": "ADVANCED LEARNING ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 716,
+      "ell_pop": 41,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 98.1
+    },
+    "168": {
+      "id": 168,
+      "name": "CAST TECH H S",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 147,
+      "ell_pop": 3,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "169": {
+      "id": 169,
+      "name": "DAVIS MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 718,
+      "ell_pop": 75,
+      "total_attn_rate": 93.8,
+      "ell_attn_rate": 95.8
+    },
+    "170": {
+      "id": 170,
+      "name": "HARRIS MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 737,
+      "ell_pop": 166,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 97.4
+    },
+    "171": {
+      "id": 171,
+      "name": "IRVING MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 429,
+      "ell_pop": 123,
+      "total_attn_rate": 92.3,
+      "ell_attn_rate": 94.3
+    },
+    "172": {
+      "id": 172,
+      "name": "LONGFELLOW MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 854,
+      "ell_pop": 135,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 95.9
+    },
+    "173": {
+      "id": 173,
+      "name": "LOWELL MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 407,
+      "ell_pop": 56,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 95.5
+    },
+    "174": {
+      "id": 174,
+      "name": "PAGE MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 248,
+      "ell_pop": 41,
+      "total_attn_rate": 93.3,
+      "ell_attn_rate": 95.5
+    },
+    "175": {
+      "id": 175,
+      "name": "POE MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 502,
+      "ell_pop": 118,
+      "total_attn_rate": 93.8,
+      "ell_attn_rate": 94.8
+    },
+    "176": {
+      "id": 176,
+      "name": "RHODES MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 685,
+      "ell_pop": 104,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.7
+    },
+    "177": {
+      "id": 177,
+      "name": "ROGERS MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 494,
+      "ell_pop": 57,
+      "total_attn_rate": 91.7,
+      "ell_attn_rate": 94.9
+    },
+    "178": {
+      "id": 178,
+      "name": "TWAIN MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 128,
+      "ell_pop": 25,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 96.6
+    },
+    "179": {
+      "id": 179,
+      "name": "WHITTIER MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 824,
+      "ell_pop": 174,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97.4
+    },
+    "180": {
+      "id": 180,
+      "name": "TAFOLLA MIDDLE",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 694,
+      "ell_pop": 135,
+      "total_attn_rate": 94,
+      "ell_attn_rate": 95.2
+    },
+    "181": {
+      "id": 181,
+      "name": "BREWER ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 31,
+      "ell_pop": 5,
+      "total_attn_rate": 74.9,
+      "ell_attn_rate": -1
+    },
+    "182": {
+      "id": 182,
+      "name": "ARNOLD EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 593,
+      "ell_pop": 248,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.4
+    },
+    "183": {
+      "id": 183,
+      "name": "CHARLES C BALL ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 583,
+      "ell_pop": 131,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 96.7
+    },
+    "184": {
+      "id": 184,
+      "name": "BASKIN EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 523,
+      "ell_pop": 21,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 96.8
+    },
+    "185": {
+      "id": 185,
+      "name": "BEACON HILL ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 402,
+      "ell_pop": 95,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97
+    },
+    "186": {
+      "id": 186,
+      "name": "BONHAM ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 580,
+      "ell_pop": 150,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 97.4
+    },
+    "187": {
+      "id": 187,
+      "name": "J T BRACKENRIDGE EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 652,
+      "ell_pop": 80,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.3
+    },
+    "188": {
+      "id": 188,
+      "name": "BRISCOE EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 492,
+      "ell_pop": 166,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.1
+    },
+    "189": {
+      "id": 189,
+      "name": "CAMERON EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 454,
+      "ell_pop": 6,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 94.5
+    },
+    "190": {
+      "id": 190,
+      "name": "COLLINS GARDEN EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 509,
+      "ell_pop": 141,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 97.2
+    },
+    "191": {
+      "id": 191,
+      "name": "AGNES COTTON ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 494,
+      "ell_pop": 153,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 97.8
+    },
+    "192": {
+      "id": 192,
+      "name": "DAVID CROCKETT EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 667,
+      "ell_pop": 210,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.4
+    },
+    "193": {
+      "id": 193,
+      "name": "DOUGLASS EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 396,
+      "ell_pop": 69,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 96.6
+    },
+    "194": {
+      "id": 194,
+      "name": "DE ZAVALA EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 598,
+      "ell_pop": 225,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.8
+    },
+    "195": {
+      "id": 195,
+      "name": "FENWICK EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 443,
+      "ell_pop": 126,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 97.8
+    },
+    "196": {
+      "id": 196,
+      "name": "MURIEL FORBES ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 306,
+      "ell_pop": 8,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.2
+    },
+    "197": {
+      "id": 197,
+      "name": "FOSTER ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 644,
+      "ell_pop": 11,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 96.3
+    },
+    "198": {
+      "id": 198,
+      "name": "FRANKLIN EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 469,
+      "ell_pop": 176,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.8
+    },
+    "199": {
+      "id": 199,
+      "name": "GATES EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 226,
+      "ell_pop": 12,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 98.9
+    },
+    "200": {
+      "id": 200,
+      "name": "CHARLES GRAEBNER EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 792,
+      "ell_pop": 288,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.6
+    },
+    "201": {
+      "id": 201,
+      "name": "ROBERT B GREEN EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 192,
+      "ell_pop": 13,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 98.8
+    },
+    "202": {
+      "id": 202,
+      "name": "HERFF EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 441,
+      "ell_pop": 146,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96.8
+    },
+    "203": {
+      "id": 203,
+      "name": "HIGHLAND HILLS EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 662,
+      "ell_pop": 133,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.7
+    },
+    "204": {
+      "id": 204,
+      "name": "HIGHLAND PARK EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 540,
+      "ell_pop": 104,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97
+    },
+    "205": {
+      "id": 205,
+      "name": "HILLCREST EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 535,
+      "ell_pop": 177,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 96.6
+    },
+    "206": {
+      "id": 206,
+      "name": "HIRSCH EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 813,
+      "ell_pop": 46,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 97.5
+    },
+    "207": {
+      "id": 207,
+      "name": "HUPPERTZ EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 400,
+      "ell_pop": 5,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 97.6
+    },
+    "208": {
+      "id": 208,
+      "name": "RODRIGUEZ EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 346,
+      "ell_pop": 78,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 96.6
+    },
+    "209": {
+      "id": 209,
+      "name": "ELOISE JAPHET ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 821,
+      "ell_pop": 160,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 97
+    },
+    "210": {
+      "id": 210,
+      "name": "M L KING ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 365,
+      "ell_pop": 21,
+      "total_attn_rate": 94.4,
+      "ell_attn_rate": 95.4
+    },
+    "211": {
+      "id": 211,
+      "name": "GEORGE E KELLY EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 283,
+      "ell_pop": 11,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97.5
+    },
+    "212": {
+      "id": 212,
+      "name": "SARAH S KING EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 685,
+      "ell_pop": 124,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 94.5
+    },
+    "213": {
+      "id": 213,
+      "name": "LAMAR EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 365,
+      "ell_pop": 90,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 96.9
+    },
+    "214": {
+      "id": 214,
+      "name": "BOWDEN ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 512,
+      "ell_pop": 127,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 97.1
+    },
+    "215": {
+      "id": 215,
+      "name": "MADISON EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 582,
+      "ell_pop": 125,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 97.5
+    },
+    "216": {
+      "id": 216,
+      "name": "MARGIL EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 561,
+      "ell_pop": 177,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 96.6
+    },
+    "217": {
+      "id": 217,
+      "name": "MAVERICK EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 570,
+      "ell_pop": 121,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.5
+    },
+    "218": {
+      "id": 218,
+      "name": "DORIE MILLER EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 262,
+      "ell_pop": 103,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 96.2
+    },
+    "219": {
+      "id": 219,
+      "name": "NEAL EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 546,
+      "ell_pop": 209,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97
+    },
+    "220": {
+      "id": 220,
+      "name": "OGDEN EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 637,
+      "ell_pop": 224,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 96.7
+    },
+    "221": {
+      "id": 221,
+      "name": "PERSHING EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 521,
+      "ell_pop": 173,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.6
+    },
+    "222": {
+      "id": 222,
+      "name": "RIVERSIDE PARK EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 393,
+      "ell_pop": 111,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 97
+    },
+    "223": {
+      "id": 223,
+      "name": "ROGERS ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 685,
+      "ell_pop": 228,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.7
+    },
+    "224": {
+      "id": 224,
+      "name": "DAVID BARKLEY/FRANCISCO RUIZ EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 491,
+      "ell_pop": 29,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 91.8
+    },
+    "225": {
+      "id": 225,
+      "name": "MARK TWAIN DUAL LANGUAGE ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 172,
+      "ell_pop": 59,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "226": {
+      "id": 226,
+      "name": "SCHENCK EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 571,
+      "ell_pop": 138,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.6
+    },
+    "227": {
+      "id": 227,
+      "name": "SMITH EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 387,
+      "ell_pop": 101,
+      "total_attn_rate": 95,
+      "ell_attn_rate": 96.1
+    },
+    "228": {
+      "id": 228,
+      "name": "STEELE MONTESSORI ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 105,
+      "ell_pop": 3,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "229": {
+      "id": 229,
+      "name": "P F STEWART EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 448,
+      "ell_pop": 158,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97
+    },
+    "230": {
+      "id": 230,
+      "name": "STORM EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 440,
+      "ell_pop": 96,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 97.2
+    },
+    "231": {
+      "id": 231,
+      "name": "WASHINGTON EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 479,
+      "ell_pop": 74,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 96.1
+    },
+    "232": {
+      "id": 232,
+      "name": "WILSON EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 460,
+      "ell_pop": 184,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 97.2
+    },
+    "233": {
+      "id": 233,
+      "name": "WOODLAWN ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 669,
+      "ell_pop": 126,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.7
+    },
+    "234": {
+      "id": 234,
+      "name": "WOODLAWN HILLS EL",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 497,
+      "ell_pop": 178,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 97.2
+    },
+    "235": {
+      "id": 235,
+      "name": "YOUNG MEN'S LEADERSHIP ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 254,
+      "ell_pop": 5,
+      "total_attn_rate": 97.9,
+      "ell_attn_rate": -1
+    },
+    "236": {
+      "id": 236,
+      "name": "HAWTHORNE PK-8 ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 818,
+      "ell_pop": 110,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.4
+    },
+    "237": {
+      "id": 237,
+      "name": "JT BRACKENRIDGE DAEP",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 9,
+      "ell_pop": 1,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "238": {
+      "id": 238,
+      "name": "HEALY-MURPHY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 135,
+      "ell_pop": 8,
+      "total_attn_rate": 72.8,
+      "ell_attn_rate": 68.6
+    },
+    "239": {
+      "id": 239,
+      "name": "CHRISTUS SANTA ROSA",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 2,
+      "ell_pop": 0,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "240": {
+      "id": 240,
+      "name": "SEIDEL LEARNING CENTER",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 9,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "241": {
+      "id": 241,
+      "name": "JUVENILE DETENT CTR",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 108,
+      "ell_pop": 7,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "242": {
+      "id": 242,
+      "name": "CHILDREN'S SHELTER OF SA",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 34,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "243": {
+      "id": 243,
+      "name": "HEALY MURPHY PK",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 36,
+      "ell_pop": 0,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "244": {
+      "id": 244,
+      "name": "MISSION ACADEMY",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 583,
+      "ell_pop": 21,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 98.4
+    },
+    "245": {
+      "id": 245,
+      "name": "SAISD - PK 4 SA",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 335,
+      "ell_pop": 35,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "246": {
+      "id": 246,
+      "name": "CARROLL EARLY CHILDHOOD CAMPUS",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 397,
+      "ell_pop": 74,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "247": {
+      "id": 247,
+      "name": "CARVAJAL EARLY CHILDHOOD CAMPUS",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 389,
+      "ell_pop": 103,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "248": {
+      "id": 248,
+      "name": "KNOX EARLY CHILDHOOD CAMPUS",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 254,
+      "ell_pop": 53,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "249": {
+      "id": 249,
+      "name": "TYNAN EARLY CHILDHOOD CAMPUS",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 244,
+      "ell_pop": 57,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "250": {
+      "id": 250,
+      "name": "NELSON EARLY CHILDHOOD CAMPUS",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 206,
+      "ell_pop": 37,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "251": {
+      "id": 251,
+      "name": "GONZALES EARLY CHILDHOOD CAMPUS",
+      "district": "SAN ANTONIO ISD",
+      "total_pop": 93,
+      "ell_pop": 16,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "252": {
+      "id": 252,
+      "name": "SOUTH SAN ANTONIO H S",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 2606,
+      "ell_pop": 242,
+      "total_attn_rate": 91.1,
+      "ell_attn_rate": 91.7
+    },
+    "253": {
+      "id": 253,
+      "name": "DWIGHT MIDDLE",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 647,
+      "ell_pop": 83,
+      "total_attn_rate": 94.3,
+      "ell_attn_rate": 96.3
+    },
+    "254": {
+      "id": 254,
+      "name": "ALAN B SHEPARD MIDDLE",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 556,
+      "ell_pop": 94,
+      "total_attn_rate": 93.3,
+      "ell_attn_rate": 95.2
+    },
+    "255": {
+      "id": 255,
+      "name": "ROBERT C ZAMORA MIDDLE",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 776,
+      "ell_pop": 114,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 96
+    },
+    "256": {
+      "id": 256,
+      "name": "HUTCHINS EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 546,
+      "ell_pop": 138,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.4
+    },
+    "257": {
+      "id": 257,
+      "name": "KINDRED EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 409,
+      "ell_pop": 5,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 97.1
+    },
+    "258": {
+      "id": 258,
+      "name": "PALO ALTO EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 495,
+      "ell_pop": 7,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 97.4
+    },
+    "259": {
+      "id": 259,
+      "name": "PRICE EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 543,
+      "ell_pop": 269,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.5
+    },
+    "260": {
+      "id": 260,
+      "name": "FRANK MADLA EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 532,
+      "ell_pop": 11,
+      "total_attn_rate": 95,
+      "ell_attn_rate": 95.8
+    },
+    "261": {
+      "id": 261,
+      "name": "FIVE PALMS EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 471,
+      "ell_pop": 246,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.1
+    },
+    "262": {
+      "id": 262,
+      "name": "NEIL ARMSTRONG EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 396,
+      "ell_pop": 8,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.9
+    },
+    "263": {
+      "id": 263,
+      "name": "MIGUEL CARRILLO JR EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 471,
+      "ell_pop": 16,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 97
+    },
+    "264": {
+      "id": 264,
+      "name": "ROY BENAVIDEZ EL",
+      "district": "SOUTH SAN ANTONIO ISD",
+      "total_pop": 654,
+      "ell_pop": 255,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 96.9
+    },
+    "265": {
+      "id": 265,
+      "name": "SOMERSET H S",
+      "district": "SOMERSET ISD",
+      "total_pop": 1077,
+      "ell_pop": 73,
+      "total_attn_rate": 93.5,
+      "ell_attn_rate": 92.9
+    },
+    "266": {
+      "id": 266,
+      "name": "ATASCOSA CO ALTER",
+      "district": "SOMERSET ISD",
+      "total_pop": 3,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "267": {
+      "id": 267,
+      "name": "SHIRLEEN ZACHARIAS EARLY CLGE LEAD",
+      "district": "SOMERSET ISD",
+      "total_pop": 115,
+      "ell_pop": 4,
+      "total_attn_rate": 97.3,
+      "ell_attn_rate": -1
+    },
+    "268": {
+      "id": 268,
+      "name": "SOMERSET J H",
+      "district": "SOMERSET ISD",
+      "total_pop": 641,
+      "ell_pop": 65,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.8
+    },
+    "269": {
+      "id": 269,
+      "name": "SOMERSET EL",
+      "district": "SOMERSET ISD",
+      "total_pop": 694,
+      "ell_pop": 163,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 96.6
+    },
+    "270": {
+      "id": 270,
+      "name": "SOMERSET EARLY CHILDHOOD EL",
+      "district": "SOMERSET ISD",
+      "total_pop": 363,
+      "ell_pop": 86,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "271": {
+      "id": 271,
+      "name": "S/SGT MICHAEL P BARRERA VETERANS E",
+      "district": "SOMERSET ISD",
+      "total_pop": 628,
+      "ell_pop": 134,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.4
+    },
+    "272": {
+      "id": 272,
+      "name": "SAVANNAH HEIGHTS INT",
+      "district": "SOMERSET ISD",
+      "total_pop": 642,
+      "ell_pop": 117,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.4
+    },
+    "273": {
+      "id": 273,
+      "name": "LEE H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 2632,
+      "ell_pop": 341,
+      "total_attn_rate": 93.4,
+      "ell_attn_rate": 93.9
+    },
+    "274": {
+      "id": 274,
+      "name": "MACARTHUR H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 2379,
+      "ell_pop": 125,
+      "total_attn_rate": 94,
+      "ell_attn_rate": 93.3
+    },
+    "275": {
+      "id": 275,
+      "name": "CHURCHILL H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 2914,
+      "ell_pop": 140,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 92.1
+    },
+    "276": {
+      "id": 276,
+      "name": "ROOSEVELT H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 2803,
+      "ell_pop": 324,
+      "total_attn_rate": 93.2,
+      "ell_attn_rate": 93.6
+    },
+    "277": {
+      "id": 277,
+      "name": "MADISON H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 3278,
+      "ell_pop": 115,
+      "total_attn_rate": 94,
+      "ell_attn_rate": 92.9
+    },
+    "278": {
+      "id": 278,
+      "name": "REAGAN H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 3513,
+      "ell_pop": 68,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 94.7
+    },
+    "279": {
+      "id": 279,
+      "name": "ACADEMY OF CREATIVE ED",
+      "district": "NORTH EAST ISD",
+      "total_pop": 124,
+      "ell_pop": 0,
+      "total_attn_rate": 77.1,
+      "ell_attn_rate": null
+    },
+    "280": {
+      "id": 280,
+      "name": "INTERNATIONAL SCHOOL OF AMERICA",
+      "district": "NORTH EAST ISD",
+      "total_pop": 488,
+      "ell_pop": 2,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": -1
+    },
+    "281": {
+      "id": 281,
+      "name": "ALTER H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 136,
+      "ell_pop": 8,
+      "total_attn_rate": 85.2,
+      "ell_attn_rate": -1
+    },
+    "282": {
+      "id": 282,
+      "name": "JOHNSON H S",
+      "district": "NORTH EAST ISD",
+      "total_pop": 3075,
+      "ell_pop": 64,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 96.8
+    },
+    "283": {
+      "id": 283,
+      "name": "NORTH EAST J J A E P",
+      "district": "NORTH EAST ISD",
+      "total_pop": 25,
+      "ell_pop": 0,
+      "total_attn_rate": 88.5,
+      "ell_attn_rate": -1
+    },
+    "284": {
+      "id": 284,
+      "name": "EISENHOWER MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1037,
+      "ell_pop": 140,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.1
+    },
+    "285": {
+      "id": 285,
+      "name": "GARNER MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 965,
+      "ell_pop": 205,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 96.5
+    },
+    "286": {
+      "id": 286,
+      "name": "KRUEGER MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 906,
+      "ell_pop": 163,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.3
+    },
+    "287": {
+      "id": 287,
+      "name": "NIMITZ MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1284,
+      "ell_pop": 311,
+      "total_attn_rate": 95,
+      "ell_attn_rate": 96
+    },
+    "288": {
+      "id": 288,
+      "name": "JACKSON MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 807,
+      "ell_pop": 124,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 95.2
+    },
+    "289": {
+      "id": 289,
+      "name": "WHITE MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1072,
+      "ell_pop": 122,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.2
+    },
+    "290": {
+      "id": 290,
+      "name": "WOOD MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 974,
+      "ell_pop": 79,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 96.6
+    },
+    "291": {
+      "id": 291,
+      "name": "BRADLEY MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1288,
+      "ell_pop": 92,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 96.9
+    },
+    "292": {
+      "id": 292,
+      "name": "DRISCOLL MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 791,
+      "ell_pop": 41,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.4
+    },
+    "293": {
+      "id": 293,
+      "name": "BUSH MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1201,
+      "ell_pop": 84,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 97
+    },
+    "294": {
+      "id": 294,
+      "name": "ALTER MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 48,
+      "ell_pop": 6,
+      "total_attn_rate": 85.6,
+      "ell_attn_rate": 86.3
+    },
+    "295": {
+      "id": 295,
+      "name": "HOMEBASED COMP ED",
+      "district": "NORTH EAST ISD",
+      "total_pop": 2,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "296": {
+      "id": 296,
+      "name": "TEJEDA MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1155,
+      "ell_pop": 59,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97.6
+    },
+    "297": {
+      "id": 297,
+      "name": "LOPEZ MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1231,
+      "ell_pop": 80,
+      "total_attn_rate": 97.4,
+      "ell_attn_rate": 97.1
+    },
+    "298": {
+      "id": 298,
+      "name": "HARRIS MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1087,
+      "ell_pop": 52,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.3
+    },
+    "299": {
+      "id": 299,
+      "name": "HILL MIDDLE",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1139,
+      "ell_pop": 44,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 96.4
+    },
+    "300": {
+      "id": 300,
+      "name": "CASTLE HILLS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 479,
+      "ell_pop": 29,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 97.1
+    },
+    "301": {
+      "id": 301,
+      "name": "COKER EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 829,
+      "ell_pop": 179,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 96.9
+    },
+    "302": {
+      "id": 302,
+      "name": "COLONIAL HILLS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 739,
+      "ell_pop": 318,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.3
+    },
+    "303": {
+      "id": 303,
+      "name": "DELLVIEW EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 397,
+      "ell_pop": 38,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 92
+    },
+    "304": {
+      "id": 304,
+      "name": "EAST TERRELL HILLS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 625,
+      "ell_pop": 285,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 97.1
+    },
+    "305": {
+      "id": 305,
+      "name": "HARMONY HILLS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 593,
+      "ell_pop": 63,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 96.4
+    },
+    "306": {
+      "id": 306,
+      "name": "JACKSON-KELLER EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 775,
+      "ell_pop": 320,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 96
+    },
+    "307": {
+      "id": 307,
+      "name": "LARKSPUR EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 811,
+      "ell_pop": 298,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 95.9
+    },
+    "308": {
+      "id": 308,
+      "name": "NORTHWOOD EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 411,
+      "ell_pop": 12,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 95.5
+    },
+    "309": {
+      "id": 309,
+      "name": "OAK GROVE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 373,
+      "ell_pop": 38,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.9
+    },
+    "310": {
+      "id": 310,
+      "name": "OLMOS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 621,
+      "ell_pop": 240,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.9
+    },
+    "311": {
+      "id": 311,
+      "name": "RIDGEVIEW EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 606,
+      "ell_pop": 263,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 96.8
+    },
+    "312": {
+      "id": 312,
+      "name": "SERNA EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 478,
+      "ell_pop": 32,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 96.1
+    },
+    "313": {
+      "id": 313,
+      "name": "WALZEM EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 652,
+      "ell_pop": 350,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 97
+    },
+    "314": {
+      "id": 314,
+      "name": "WEST AVENUE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 353,
+      "ell_pop": 36,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 96.6
+    },
+    "315": {
+      "id": 315,
+      "name": "WILSHIRE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 338,
+      "ell_pop": 31,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 96.7
+    },
+    "316": {
+      "id": 316,
+      "name": "WINDCREST EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 567,
+      "ell_pop": 30,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.1
+    },
+    "317": {
+      "id": 317,
+      "name": "CAMELOT EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 613,
+      "ell_pop": 53,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 96.2
+    },
+    "318": {
+      "id": 318,
+      "name": "CLEAR SPRING EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 406,
+      "ell_pop": 22,
+      "total_attn_rate": 94.2,
+      "ell_attn_rate": 97.1
+    },
+    "319": {
+      "id": 319,
+      "name": "REGENCY PLACE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 531,
+      "ell_pop": 323,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.1
+    },
+    "320": {
+      "id": 320,
+      "name": "EL DORADO EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 718,
+      "ell_pop": 264,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 97.2
+    },
+    "321": {
+      "id": 321,
+      "name": "MONTGOMERY EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 499,
+      "ell_pop": 31,
+      "total_attn_rate": 94.1,
+      "ell_attn_rate": 93.9
+    },
+    "322": {
+      "id": 322,
+      "name": "HIDDEN FOREST EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 556,
+      "ell_pop": 9,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 98.6
+    },
+    "323": {
+      "id": 323,
+      "name": "WOODSTONE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 598,
+      "ell_pop": 18,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 97.1
+    },
+    "324": {
+      "id": 324,
+      "name": "STAHL EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 813,
+      "ell_pop": 196,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96.9
+    },
+    "325": {
+      "id": 325,
+      "name": "THOUSAND OAKS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 738,
+      "ell_pop": 42,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.6
+    },
+    "326": {
+      "id": 326,
+      "name": "NORTHERN HILLS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 674,
+      "ell_pop": 51,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96
+    },
+    "327": {
+      "id": 327,
+      "name": "REDLAND OAKS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 422,
+      "ell_pop": 18,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 97.8
+    },
+    "328": {
+      "id": 328,
+      "name": "ENCINO PARK EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 632,
+      "ell_pop": 20,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97
+    },
+    "329": {
+      "id": 329,
+      "name": "FOX RUN EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 693,
+      "ell_pop": 30,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.7
+    },
+    "330": {
+      "id": 330,
+      "name": "OAK MEADOW EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 444,
+      "ell_pop": 48,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 95.8
+    },
+    "331": {
+      "id": 331,
+      "name": "STONE OAK EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 845,
+      "ell_pop": 243,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 96.6
+    },
+    "332": {
+      "id": 332,
+      "name": "LONGS CREEK EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 627,
+      "ell_pop": 11,
+      "total_attn_rate": 97.2,
+      "ell_attn_rate": 98.1
+    },
+    "333": {
+      "id": 333,
+      "name": "HUEBNER EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 693,
+      "ell_pop": 28,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 96.3
+    },
+    "334": {
+      "id": 334,
+      "name": "HARDY OAK EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 701,
+      "ell_pop": 43,
+      "total_attn_rate": 97.3,
+      "ell_attn_rate": 97.5
+    },
+    "335": {
+      "id": 335,
+      "name": "WETMORE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 678,
+      "ell_pop": 43,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 95.9
+    },
+    "336": {
+      "id": 336,
+      "name": "ROYAL RIDGE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 608,
+      "ell_pop": 52,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.2
+    },
+    "337": {
+      "id": 337,
+      "name": "ROAN FOREST EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 765,
+      "ell_pop": 284,
+      "total_attn_rate": 97.3,
+      "ell_attn_rate": 97.5
+    },
+    "338": {
+      "id": 338,
+      "name": "CANYON RIDGE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 631,
+      "ell_pop": 70,
+      "total_attn_rate": 97.2,
+      "ell_attn_rate": 98.3
+    },
+    "339": {
+      "id": 339,
+      "name": "STEUBING RANCH EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 961,
+      "ell_pop": 232,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.1
+    },
+    "340": {
+      "id": 340,
+      "name": "BULVERDE CREEK",
+      "district": "NORTH EAST ISD",
+      "total_pop": 1091,
+      "ell_pop": 59,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 97.6
+    },
+    "341": {
+      "id": 341,
+      "name": "WILDERNESS OAK EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 608,
+      "ell_pop": 19,
+      "total_attn_rate": 97.3,
+      "ell_attn_rate": 96.8
+    },
+    "342": {
+      "id": 342,
+      "name": "TUSCANY HEIGHTS",
+      "district": "NORTH EAST ISD",
+      "total_pop": 771,
+      "ell_pop": 71,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.2
+    },
+    "343": {
+      "id": 343,
+      "name": "CIBOLO GREEN",
+      "district": "NORTH EAST ISD",
+      "total_pop": 950,
+      "ell_pop": 54,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": 98.1
+    },
+    "344": {
+      "id": 344,
+      "name": "LAS LOMAS EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 480,
+      "ell_pop": 70,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 96.9
+    },
+    "345": {
+      "id": 345,
+      "name": "VINEYARD RANCH EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 793,
+      "ell_pop": 189,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 96.6
+    },
+    "346": {
+      "id": 346,
+      "name": "ALTERNATIVE EL",
+      "district": "NORTH EAST ISD",
+      "total_pop": 5,
+      "ell_pop": 0,
+      "total_attn_rate": 92.3,
+      "ell_attn_rate": -1
+    },
+    "347": {
+      "id": 347,
+      "name": "NEISD - PK4SA",
+      "district": "NORTH EAST ISD",
+      "total_pop": 260,
+      "ell_pop": 49,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "348": {
+      "id": 348,
+      "name": "EAST CENTRAL H S",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 3126,
+      "ell_pop": 177,
+      "total_attn_rate": 92.6,
+      "ell_attn_rate": 93.2
+    },
+    "349": {
+      "id": 349,
+      "name": "EAST CENTRAL CHOICE PROGAM",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 34,
+      "ell_pop": 2,
+      "total_attn_rate": 78.9,
+      "ell_attn_rate": -1
+    },
+    "350": {
+      "id": 350,
+      "name": "BEXAR CO J J A E P",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 4,
+      "ell_pop": 1,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "351": {
+      "id": 351,
+      "name": "BEXAR COUNTY LRN CTR",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 57,
+      "ell_pop": 2,
+      "total_attn_rate": -1,
+      "ell_attn_rate": -1
+    },
+    "352": {
+      "id": 352,
+      "name": "OAK CREST INT",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 769,
+      "ell_pop": 126,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 96.8
+    },
+    "353": {
+      "id": 353,
+      "name": "SALADO INT",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 761,
+      "ell_pop": 105,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.3
+    },
+    "354": {
+      "id": 354,
+      "name": "EAST CENTRAL HERITAGE MIDDLE",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 1172,
+      "ell_pop": 133,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 95.9
+    },
+    "355": {
+      "id": 355,
+      "name": "LEGACY MIDDLE",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 1264,
+      "ell_pop": 136,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 95.3
+    },
+    "356": {
+      "id": 356,
+      "name": "JOHN GLENN EL",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 633,
+      "ell_pop": 74,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 96.9
+    },
+    "357": {
+      "id": 357,
+      "name": "HARMONY EL",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 520,
+      "ell_pop": 83,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.5
+    },
+    "358": {
+      "id": 358,
+      "name": "PECAN VALLEY EL",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 519,
+      "ell_pop": 60,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 96
+    },
+    "359": {
+      "id": 359,
+      "name": "SINCLAIR EL",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 655,
+      "ell_pop": 83,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 96.3
+    },
+    "360": {
+      "id": 360,
+      "name": "EAST CENTRAL DEV CTR",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 164,
+      "ell_pop": 42,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "361": {
+      "id": 361,
+      "name": "HIGHLAND FOREST EL",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 455,
+      "ell_pop": 71,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 96.7
+    },
+    "362": {
+      "id": 362,
+      "name": "PRE/K FOR SA - EAST CENTRAL ISD",
+      "district": "EAST CENTRAL ISD",
+      "total_pop": 68,
+      "ell_pop": 6,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "363": {
+      "id": 363,
+      "name": "SOUTHWEST H S",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 2374,
+      "ell_pop": 124,
+      "total_attn_rate": 92.6,
+      "ell_attn_rate": 92.6
+    },
+    "364": {
+      "id": 364,
+      "name": "SOUTHWEST LEGACY H S",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 1497,
+      "ell_pop": 156,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "365": {
+      "id": 365,
+      "name": "SOUTHWEST ACADEMY",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 125,
+      "ell_pop": 11,
+      "total_attn_rate": 76.8,
+      "ell_attn_rate": 85.7
+    },
+    "366": {
+      "id": 366,
+      "name": "RONALD E MCNAIR MIDDLE",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 729,
+      "ell_pop": 87,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 96.8
+    },
+    "367": {
+      "id": 367,
+      "name": "SHARON CHRISTA MCAULIFFE MIDDLE",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 811,
+      "ell_pop": 164,
+      "total_attn_rate": 93.9,
+      "ell_attn_rate": 95
+    },
+    "368": {
+      "id": 368,
+      "name": "FRANCIS R SCOBEE MIDDLE",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 855,
+      "ell_pop": 54,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 95.9
+    },
+    "369": {
+      "id": 369,
+      "name": "JUDITH A RESNIK MIDDLE",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 837,
+      "ell_pop": 100,
+      "total_attn_rate": 93.8,
+      "ell_attn_rate": 94.4
+    },
+    "370": {
+      "id": 370,
+      "name": "SOUTHWEST EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 641,
+      "ell_pop": 135,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.2
+    },
+    "371": {
+      "id": 371,
+      "name": "SUN VALLEY EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 617,
+      "ell_pop": 106,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.7
+    },
+    "372": {
+      "id": 372,
+      "name": "INDIAN CREEK EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 554,
+      "ell_pop": 160,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 96.8
+    },
+    "373": {
+      "id": 373,
+      "name": "BOB HOPE EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 409,
+      "ell_pop": 96,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.1
+    },
+    "374": {
+      "id": 374,
+      "name": "SKY HARBOUR EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 649,
+      "ell_pop": 220,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.7
+    },
+    "375": {
+      "id": 375,
+      "name": "HIDDEN COVE EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 563,
+      "ell_pop": 216,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97
+    },
+    "376": {
+      "id": 376,
+      "name": "BIG COUNTRY EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 662,
+      "ell_pop": 124,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 96.6
+    },
+    "377": {
+      "id": 377,
+      "name": "ELM CREEK EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 686,
+      "ell_pop": 178,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 96.9
+    },
+    "378": {
+      "id": 378,
+      "name": "KRIEWALD RD EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 608,
+      "ell_pop": 16,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 97.3
+    },
+    "379": {
+      "id": 379,
+      "name": "SPICEWOOD PARK EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 634,
+      "ell_pop": 103,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.8
+    },
+    "380": {
+      "id": 380,
+      "name": "MEDIO CREEK EL",
+      "district": "SOUTHWEST ISD",
+      "total_pop": 592,
+      "ell_pop": 162,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.4
+    },
+    "381": {
+      "id": 381,
+      "name": "VIRGINIA ALLRED STACEY JR/SR H S",
+      "district": "LACKLAND ISD",
+      "total_pop": 398,
+      "ell_pop": 8,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": -1
+    },
+    "382": {
+      "id": 382,
+      "name": "LACKLAND EL",
+      "district": "LACKLAND ISD",
+      "total_pop": 653,
+      "ell_pop": 11,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.5
+    },
+    "383": {
+      "id": 383,
+      "name": "ROBERT G COLE MIDDLE/HIGH SCHOOL",
+      "district": "FT SAM HOUSTON ISD",
+      "total_pop": 725,
+      "ell_pop": 12,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 93.5
+    },
+    "384": {
+      "id": 384,
+      "name": "FT SAM HOUSTON EL",
+      "district": "FT SAM HOUSTON ISD",
+      "total_pop": 883,
+      "ell_pop": 16,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 96.8
+    },
+    "385": {
+      "id": 385,
+      "name": "HOLMES H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2840,
+      "ell_pop": 188,
+      "total_attn_rate": 93.2,
+      "ell_attn_rate": 94
+    },
+    "386": {
+      "id": 386,
+      "name": "JAY H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 3011,
+      "ell_pop": 202,
+      "total_attn_rate": 92.2,
+      "ell_attn_rate": 93
+    },
+    "387": {
+      "id": 387,
+      "name": "MARSHALL H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2616,
+      "ell_pop": 157,
+      "total_attn_rate": 94,
+      "ell_attn_rate": 93.9
+    },
+    "388": {
+      "id": 388,
+      "name": "HOLMGREEN CENTER",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 74,
+      "ell_pop": 2,
+      "total_attn_rate": 89.1,
+      "ell_attn_rate": -1
+    },
+    "389": {
+      "id": 389,
+      "name": "CLARK H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2744,
+      "ell_pop": 137,
+      "total_attn_rate": 94.3,
+      "ell_attn_rate": 93.6
+    },
+    "390": {
+      "id": 390,
+      "name": "HEALTH CAREERS H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 843,
+      "ell_pop": 0,
+      "total_attn_rate": 97.4,
+      "ell_attn_rate": null
+    },
+    "391": {
+      "id": 391,
+      "name": "TAFT H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2619,
+      "ell_pop": 90,
+      "total_attn_rate": 94.4,
+      "ell_attn_rate": 92.5
+    },
+    "392": {
+      "id": 392,
+      "name": "ALTERNATIVE H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 128,
+      "ell_pop": 10,
+      "total_attn_rate": 81.2,
+      "ell_attn_rate": -1
+    },
+    "393": {
+      "id": 393,
+      "name": "CHAVEZ EXCEL ACADEMY",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 93,
+      "ell_pop": 2,
+      "total_attn_rate": 84,
+      "ell_attn_rate": -1
+    },
+    "394": {
+      "id": 394,
+      "name": "REDDIX CENTER",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 230,
+      "ell_pop": 0,
+      "total_attn_rate": 94.4,
+      "ell_attn_rate": null
+    },
+    "395": {
+      "id": 395,
+      "name": "O'CONNOR H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 3327,
+      "ell_pop": 81,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 95.4
+    },
+    "396": {
+      "id": 396,
+      "name": "WARREN H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 3084,
+      "ell_pop": 106,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.4
+    },
+    "397": {
+      "id": 397,
+      "name": "STEVENS H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2911,
+      "ell_pop": 99,
+      "total_attn_rate": 93.6,
+      "ell_attn_rate": 94.5
+    },
+    "398": {
+      "id": 398,
+      "name": "BRANDEIS H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2702,
+      "ell_pop": 121,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 95.4
+    },
+    "399": {
+      "id": 399,
+      "name": "BRENNAN H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 2649,
+      "ell_pop": 63,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 95.1
+    },
+    "400": {
+      "id": 400,
+      "name": "HARLAN H S",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1458,
+      "ell_pop": 29,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "401": {
+      "id": 401,
+      "name": "DAEP AT HOLMGREEN",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 10,
+      "ell_pop": 4,
+      "total_attn_rate": 90.3,
+      "ell_attn_rate": -1
+    },
+    "402": {
+      "id": 402,
+      "name": "NISD BEXAR COUNTY JJA",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 24,
+      "ell_pop": 1,
+      "total_attn_rate": 84.5,
+      "ell_attn_rate": -1
+    },
+    "403": {
+      "id": 403,
+      "name": "NEFF MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1176,
+      "ell_pop": 113,
+      "total_attn_rate": 94.4,
+      "ell_attn_rate": 94.1
+    },
+    "404": {
+      "id": 404,
+      "name": "RAYBURN MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 929,
+      "ell_pop": 90,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.4
+    },
+    "405": {
+      "id": 405,
+      "name": "ROSS MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1165,
+      "ell_pop": 107,
+      "total_attn_rate": 94.4,
+      "ell_attn_rate": 95.2
+    },
+    "406": {
+      "id": 406,
+      "name": "JONES MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1064,
+      "ell_pop": 145,
+      "total_attn_rate": 93.2,
+      "ell_attn_rate": 95.3
+    },
+    "407": {
+      "id": 407,
+      "name": "HOBBY MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1026,
+      "ell_pop": 125,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 95.2
+    },
+    "408": {
+      "id": 408,
+      "name": "PEASE MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1099,
+      "ell_pop": 60,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 94.2
+    },
+    "409": {
+      "id": 409,
+      "name": "STEVENSON MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1315,
+      "ell_pop": 37,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 95.5
+    },
+    "410": {
+      "id": 410,
+      "name": "RUDDER MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 970,
+      "ell_pop": 150,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.6
+    },
+    "411": {
+      "id": 411,
+      "name": "ZACHRY MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 948,
+      "ell_pop": 63,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.3
+    },
+    "412": {
+      "id": 412,
+      "name": "STINSON MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1179,
+      "ell_pop": 75,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.4
+    },
+    "413": {
+      "id": 413,
+      "name": "JORDAN MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1289,
+      "ell_pop": 69,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 95.9
+    },
+    "414": {
+      "id": 414,
+      "name": "CONNALLY MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 953,
+      "ell_pop": 47,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 95.9
+    },
+    "415": {
+      "id": 415,
+      "name": "RAWLINSON MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1294,
+      "ell_pop": 75,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 95.5
+    },
+    "416": {
+      "id": 416,
+      "name": "LUNA MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1358,
+      "ell_pop": 37,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 95.7
+    },
+    "417": {
+      "id": 417,
+      "name": "JEFFERSON MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1509,
+      "ell_pop": 44,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.1
+    },
+    "418": {
+      "id": 418,
+      "name": "VALE MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1330,
+      "ell_pop": 73,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.1
+    },
+    "419": {
+      "id": 419,
+      "name": "GARCIA MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1473,
+      "ell_pop": 39,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 96.8
+    },
+    "420": {
+      "id": 420,
+      "name": "BRISCOE MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1222,
+      "ell_pop": 38,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 96.8
+    },
+    "421": {
+      "id": 421,
+      "name": "FOLKS MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1212,
+      "ell_pop": 31,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 96.3
+    },
+    "422": {
+      "id": 422,
+      "name": "BERNAL MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 896,
+      "ell_pop": 21,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 96
+    },
+    "423": {
+      "id": 423,
+      "name": "ALTERNATIVE MIDDLE",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 39,
+      "ell_pop": 3,
+      "total_attn_rate": 84.3,
+      "ell_attn_rate": -1
+    },
+    "424": {
+      "id": 424,
+      "name": "CABLE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 678,
+      "ell_pop": 192,
+      "total_attn_rate": 94.4,
+      "ell_attn_rate": 95.8
+    },
+    "425": {
+      "id": 425,
+      "name": "GLENN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 570,
+      "ell_pop": 88,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 96.4
+    },
+    "426": {
+      "id": 426,
+      "name": "GLENOAKS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 627,
+      "ell_pop": 257,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.6
+    },
+    "427": {
+      "id": 427,
+      "name": "HELOTES EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 405,
+      "ell_pop": 4,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": -1
+    },
+    "428": {
+      "id": 428,
+      "name": "HULL EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 547,
+      "ell_pop": 106,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 97.1
+    },
+    "429": {
+      "id": 429,
+      "name": "ALLEN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 582,
+      "ell_pop": 161,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 96.4
+    },
+    "430": {
+      "id": 430,
+      "name": "FISHER EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 776,
+      "ell_pop": 238,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97
+    },
+    "431": {
+      "id": 431,
+      "name": "LEON VALLEY EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 596,
+      "ell_pop": 239,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.8
+    },
+    "432": {
+      "id": 432,
+      "name": "LOCKE HILL EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 626,
+      "ell_pop": 27,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.2
+    },
+    "433": {
+      "id": 433,
+      "name": "GLASS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 604,
+      "ell_pop": 6,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 90.9
+    },
+    "434": {
+      "id": 434,
+      "name": "POWELL EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 487,
+      "ell_pop": 13,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 97.6
+    },
+    "435": {
+      "id": 435,
+      "name": "VALLEY HI EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 408,
+      "ell_pop": 11,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 97.8
+    },
+    "436": {
+      "id": 436,
+      "name": "WESTWOOD TERRACE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 544,
+      "ell_pop": 165,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 96.7
+    },
+    "437": {
+      "id": 437,
+      "name": "COLONIES NORTH EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 746,
+      "ell_pop": 311,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 95.9
+    },
+    "438": {
+      "id": 438,
+      "name": "VILLARREAL EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 712,
+      "ell_pop": 310,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.2
+    },
+    "439": {
+      "id": 439,
+      "name": "MEADOW VILLAGE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 527,
+      "ell_pop": 9,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 95.6
+    },
+    "440": {
+      "id": 440,
+      "name": "OAK HILLS TERRACE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 645,
+      "ell_pop": 10,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 97.2
+    },
+    "441": {
+      "id": 441,
+      "name": "HOWSMAN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 708,
+      "ell_pop": 198,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 95.7
+    },
+    "442": {
+      "id": 442,
+      "name": "PASSMORE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 556,
+      "ell_pop": 131,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 96.3
+    },
+    "443": {
+      "id": 443,
+      "name": "ADAMS HILL EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 511,
+      "ell_pop": 24,
+      "total_attn_rate": 95,
+      "ell_attn_rate": 96.5
+    },
+    "444": {
+      "id": 444,
+      "name": "ESPARZA EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 654,
+      "ell_pop": 194,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.8
+    },
+    "445": {
+      "id": 445,
+      "name": "BOONE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 594,
+      "ell_pop": 20,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 95.4
+    },
+    "446": {
+      "id": 446,
+      "name": "CARLOS COON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 757,
+      "ell_pop": 85,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 95.7
+    },
+    "447": {
+      "id": 447,
+      "name": "MURNIN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 880,
+      "ell_pop": 24,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 95.9
+    },
+    "448": {
+      "id": 448,
+      "name": "LINTON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 544,
+      "ell_pop": 14,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 94
+    },
+    "449": {
+      "id": 449,
+      "name": "TIMBERWILDE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 636,
+      "ell_pop": 13,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 96.5
+    },
+    "450": {
+      "id": 450,
+      "name": "BRAUN STATION EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 540,
+      "ell_pop": 7,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 97.7
+    },
+    "451": {
+      "id": 451,
+      "name": "CODY EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 615,
+      "ell_pop": 86,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 95.7
+    },
+    "452": {
+      "id": 452,
+      "name": "NORTHWEST CROSSING EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 536,
+      "ell_pop": 100,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.5
+    },
+    "453": {
+      "id": 453,
+      "name": "KNOWLTON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 668,
+      "ell_pop": 212,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 97.3
+    },
+    "454": {
+      "id": 454,
+      "name": "FORESTER EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 933,
+      "ell_pop": 235,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 96.4
+    },
+    "455": {
+      "id": 455,
+      "name": "SCOBEE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 570,
+      "ell_pop": 14,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 97.1
+    },
+    "456": {
+      "id": 456,
+      "name": "GALM EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 612,
+      "ell_pop": 14,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 95.8
+    },
+    "457": {
+      "id": 457,
+      "name": "ELROD EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 455,
+      "ell_pop": 14,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 95.8
+    },
+    "458": {
+      "id": 458,
+      "name": "WANKE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 789,
+      "ell_pop": 127,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96
+    },
+    "459": {
+      "id": 459,
+      "name": "THORNTON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 594,
+      "ell_pop": 96,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 97
+    },
+    "460": {
+      "id": 460,
+      "name": "BRAUCHLE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 627,
+      "ell_pop": 22,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 96.8
+    },
+    "461": {
+      "id": 461,
+      "name": "FERNANDEZ EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 604,
+      "ell_pop": 40,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 98
+    },
+    "462": {
+      "id": 462,
+      "name": "LEON SPRINGS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 493,
+      "ell_pop": 26,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 95.8
+    },
+    "463": {
+      "id": 463,
+      "name": "EVERS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 832,
+      "ell_pop": 50,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 97.7
+    },
+    "464": {
+      "id": 464,
+      "name": "MAY EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 558,
+      "ell_pop": 180,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.1
+    },
+    "465": {
+      "id": 465,
+      "name": "MCDERMOTT EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 673,
+      "ell_pop": 98,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 96.4
+    },
+    "466": {
+      "id": 466,
+      "name": "MYERS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 678,
+      "ell_pop": 168,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.5
+    },
+    "467": {
+      "id": 467,
+      "name": "STEUBING EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 509,
+      "ell_pop": 77,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 97.3
+    },
+    "468": {
+      "id": 468,
+      "name": "MICHAEL EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 748,
+      "ell_pop": 16,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 96.6
+    },
+    "469": {
+      "id": 469,
+      "name": "CARSON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 565,
+      "ell_pop": 11,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97.1
+    },
+    "470": {
+      "id": 470,
+      "name": "BURKE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 486,
+      "ell_pop": 119,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 97.2
+    },
+    "471": {
+      "id": 471,
+      "name": "RABA EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 760,
+      "ell_pop": 84,
+      "total_attn_rate": 96.5,
+      "ell_attn_rate": 96.3
+    },
+    "472": {
+      "id": 472,
+      "name": "LEWIS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 683,
+      "ell_pop": 22,
+      "total_attn_rate": 96.1,
+      "ell_attn_rate": 97.1
+    },
+    "473": {
+      "id": 473,
+      "name": "RHODES EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 590,
+      "ell_pop": 14,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 96.1
+    },
+    "474": {
+      "id": 474,
+      "name": "NICHOLS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 457,
+      "ell_pop": 7,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 98.1
+    },
+    "475": {
+      "id": 475,
+      "name": "DRIGGERS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 570,
+      "ell_pop": 77,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 96.9
+    },
+    "476": {
+      "id": 476,
+      "name": "CARNAHAN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 583,
+      "ell_pop": 80,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 97
+    },
+    "477": {
+      "id": 477,
+      "name": "AUE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 670,
+      "ell_pop": 18,
+      "total_attn_rate": 97.2,
+      "ell_attn_rate": 96.5
+    },
+    "478": {
+      "id": 478,
+      "name": "SCARBOROUGH EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 902,
+      "ell_pop": 27,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96.1
+    },
+    "479": {
+      "id": 479,
+      "name": "BEARD EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 695,
+      "ell_pop": 29,
+      "total_attn_rate": 97.2,
+      "ell_attn_rate": 98
+    },
+    "480": {
+      "id": 480,
+      "name": "BLATTMAN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 537,
+      "ell_pop": 16,
+      "total_attn_rate": 96.8,
+      "ell_attn_rate": 97
+    },
+    "481": {
+      "id": 481,
+      "name": "OTT EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 699,
+      "ell_pop": 15,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 95.7
+    },
+    "482": {
+      "id": 482,
+      "name": "WARD EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 856,
+      "ell_pop": 44,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 96.7
+    },
+    "483": {
+      "id": 483,
+      "name": "HATCHETT EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 765,
+      "ell_pop": 55,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 95.9
+    },
+    "484": {
+      "id": 484,
+      "name": "MEAD EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 735,
+      "ell_pop": 248,
+      "total_attn_rate": 94.6,
+      "ell_attn_rate": 96.7
+    },
+    "485": {
+      "id": 485,
+      "name": "KRUEGER EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 747,
+      "ell_pop": 13,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 97.3
+    },
+    "486": {
+      "id": 486,
+      "name": "LANGLEY EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 459,
+      "ell_pop": 149,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 96.5
+    },
+    "487": {
+      "id": 487,
+      "name": "HOFFMANN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 995,
+      "ell_pop": 28,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 96.3
+    },
+    "488": {
+      "id": 488,
+      "name": "MARTIN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 719,
+      "ell_pop": 163,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 95.9
+    },
+    "489": {
+      "id": 489,
+      "name": "KUENTZ EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 704,
+      "ell_pop": 15,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 97.9
+    },
+    "490": {
+      "id": 490,
+      "name": "BEHLAU EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 1097,
+      "ell_pop": 41,
+      "total_attn_rate": 95.7,
+      "ell_attn_rate": 97.3
+    },
+    "491": {
+      "id": 491,
+      "name": "FRANKLIN EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 794,
+      "ell_pop": 21,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": 97.6
+    },
+    "492": {
+      "id": 492,
+      "name": "MIRELES EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 928,
+      "ell_pop": 63,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97.4
+    },
+    "493": {
+      "id": 493,
+      "name": "HENDERSON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 532,
+      "ell_pop": 134,
+      "total_attn_rate": 96.6,
+      "ell_attn_rate": 96.3
+    },
+    "494": {
+      "id": 494,
+      "name": "KALLISON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 593,
+      "ell_pop": 25,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "495": {
+      "id": 495,
+      "name": "LIECK EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 745,
+      "ell_pop": 16,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 97
+    },
+    "496": {
+      "id": 496,
+      "name": "FIELDS EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 845,
+      "ell_pop": 116,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 95.3
+    },
+    "497": {
+      "id": 497,
+      "name": "BOLDT EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 758,
+      "ell_pop": 7,
+      "total_attn_rate": 96.9,
+      "ell_attn_rate": -1
+    },
+    "498": {
+      "id": 498,
+      "name": "COLE EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 795,
+      "ell_pop": 107,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 96.4
+    },
+    "499": {
+      "id": 499,
+      "name": "MCANDREW EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 330,
+      "ell_pop": 6,
+      "total_attn_rate": 97.1,
+      "ell_attn_rate": -1
+    },
+    "500": {
+      "id": 500,
+      "name": "ELLISON EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 573,
+      "ell_pop": 127,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 96
+    },
+    "501": {
+      "id": 501,
+      "name": "LOS REYES EL",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 584,
+      "ell_pop": 66,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97.6
+    },
+    "502": {
+      "id": 502,
+      "name": "PUPIL PERSONNEL CAMPUS",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 10,
+      "ell_pop": 2,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "503": {
+      "id": 503,
+      "name": "NISD PKSA",
+      "district": "NORTHSIDE ISD",
+      "total_pop": 562,
+      "ell_pop": 150,
+      "total_attn_rate": null,
+      "ell_attn_rate": null
+    },
+    "504": {
+      "id": 504,
+      "name": "JUDSON H S",
+      "district": "JUDSON ISD",
+      "total_pop": 3031,
+      "ell_pop": 124,
+      "total_attn_rate": 93.5,
+      "ell_attn_rate": 95
+    },
+    "505": {
+      "id": 505,
+      "name": "JUDSON LEARNING ACAD",
+      "district": "JUDSON ISD",
+      "total_pop": 91,
+      "ell_pop": 2,
+      "total_attn_rate": 93,
+      "ell_attn_rate": -1
+    },
+    "506": {
+      "id": 506,
+      "name": "JUDSON CARE ACADEMY",
+      "district": "JUDSON ISD",
+      "total_pop": 76,
+      "ell_pop": 4,
+      "total_attn_rate": 89.7,
+      "ell_attn_rate": -1
+    },
+    "507": {
+      "id": 507,
+      "name": "BEXAR CO J J A E P",
+      "district": "JUDSON ISD",
+      "total_pop": 1,
+      "ell_pop": 0,
+      "total_attn_rate": -1,
+      "ell_attn_rate": null
+    },
+    "508": {
+      "id": 508,
+      "name": "KAREN WAGNER H S",
+      "district": "JUDSON ISD",
+      "total_pop": 2124,
+      "ell_pop": 142,
+      "total_attn_rate": 91.5,
+      "ell_attn_rate": 92.8
+    },
+    "509": {
+      "id": 509,
+      "name": "JUDSON EARLY COLLEGE ACADEMY",
+      "district": "JUDSON ISD",
+      "total_pop": 477,
+      "ell_pop": 7,
+      "total_attn_rate": 98.2,
+      "ell_attn_rate": 98.7
+    },
+    "510": {
+      "id": 510,
+      "name": "VETERANS MEMORIAL H S",
+      "district": "JUDSON ISD",
+      "total_pop": 1030,
+      "ell_pop": 43,
+      "total_attn_rate": 94.5,
+      "ell_attn_rate": 95.9
+    },
+    "511": {
+      "id": 511,
+      "name": "KIRBY MIDDLE",
+      "district": "JUDSON ISD",
+      "total_pop": 751,
+      "ell_pop": 92,
+      "total_attn_rate": 94.2,
+      "ell_attn_rate": 96.2
+    },
+    "512": {
+      "id": 512,
+      "name": "KITTY HAWK MIDDLE",
+      "district": "JUDSON ISD",
+      "total_pop": 1383,
+      "ell_pop": 70,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 95.8
+    },
+    "513": {
+      "id": 513,
+      "name": "WOODLAKE HILLS MIDDLE",
+      "district": "JUDSON ISD",
+      "total_pop": 815,
+      "ell_pop": 89,
+      "total_attn_rate": 94.7,
+      "ell_attn_rate": 95.7
+    },
+    "514": {
+      "id": 514,
+      "name": "HENRY METZGER MIDDLE",
+      "district": "JUDSON ISD",
+      "total_pop": 980,
+      "ell_pop": 107,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 97
+    },
+    "515": {
+      "id": 515,
+      "name": "JUDSON MIDDLE",
+      "district": "JUDSON ISD",
+      "total_pop": 1194,
+      "ell_pop": 63,
+      "total_attn_rate": 95.5,
+      "ell_attn_rate": 95.5
+    },
+    "516": {
+      "id": 516,
+      "name": "CONVERSE EL",
+      "district": "JUDSON ISD",
+      "total_pop": 572,
+      "ell_pop": 16,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96.7
+    },
+    "517": {
+      "id": 517,
+      "name": "HOPKINS EL",
+      "district": "JUDSON ISD",
+      "total_pop": 774,
+      "ell_pop": 149,
+      "total_attn_rate": 95.6,
+      "ell_attn_rate": 97.1
+    },
+    "518": {
+      "id": 518,
+      "name": "ED FRANZ EL",
+      "district": "JUDSON ISD",
+      "total_pop": 457,
+      "ell_pop": 6,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.6
+    },
+    "519": {
+      "id": 519,
+      "name": "CORONADO VILLAGE EL",
+      "district": "JUDSON ISD",
+      "total_pop": 381,
+      "ell_pop": 99,
+      "total_attn_rate": 97,
+      "ell_attn_rate": 97
+    },
+    "520": {
+      "id": 520,
+      "name": "PARK VILLAGE EL",
+      "district": "JUDSON ISD",
+      "total_pop": 543,
+      "ell_pop": 10,
+      "total_attn_rate": 95.2,
+      "ell_attn_rate": 95.4
+    },
+    "521": {
+      "id": 521,
+      "name": "CRESTVIEW EL",
+      "district": "JUDSON ISD",
+      "total_pop": 618,
+      "ell_pop": 181,
+      "total_attn_rate": 96.4,
+      "ell_attn_rate": 96.5
+    },
+    "522": {
+      "id": 522,
+      "name": "WOODLAKE EL",
+      "district": "JUDSON ISD",
+      "total_pop": 600,
+      "ell_pop": 20,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 96.9
+    },
+    "523": {
+      "id": 523,
+      "name": "OLYMPIA EL",
+      "district": "JUDSON ISD",
+      "total_pop": 440,
+      "ell_pop": 5,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96.8
+    },
+    "524": {
+      "id": 524,
+      "name": "SPRING MEADOWS EL",
+      "district": "JUDSON ISD",
+      "total_pop": 621,
+      "ell_pop": 197,
+      "total_attn_rate": 95.9,
+      "ell_attn_rate": 96.4
+    },
+    "525": {
+      "id": 525,
+      "name": "MILLER POINT EL",
+      "district": "JUDSON ISD",
+      "total_pop": 572,
+      "ell_pop": 20,
+      "total_attn_rate": 96,
+      "ell_attn_rate": 95.6
+    },
+    "526": {
+      "id": 526,
+      "name": "CANDLEWOOD EL",
+      "district": "JUDSON ISD",
+      "total_pop": 608,
+      "ell_pop": 144,
+      "total_attn_rate": 95.1,
+      "ell_attn_rate": 97
+    },
+    "527": {
+      "id": 527,
+      "name": "ELOLF EL",
+      "district": "JUDSON ISD",
+      "total_pop": 568,
+      "ell_pop": 21,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 95.2
+    },
+    "528": {
+      "id": 528,
+      "name": "WILLIAM PASCHALL EL",
+      "district": "JUDSON ISD",
+      "total_pop": 647,
+      "ell_pop": 103,
+      "total_attn_rate": 95.4,
+      "ell_attn_rate": 96.7
+    },
+    "529": {
+      "id": 529,
+      "name": "MARY LOU HARTMAN",
+      "district": "JUDSON ISD",
+      "total_pop": 753,
+      "ell_pop": 268,
+      "total_attn_rate": 96.3,
+      "ell_attn_rate": 96.9
+    },
+    "530": {
+      "id": 530,
+      "name": "RICARDO SALINAS EL",
+      "district": "JUDSON ISD",
+      "total_pop": 680,
+      "ell_pop": 40,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 95.8
+    },
+    "531": {
+      "id": 531,
+      "name": "JAMES L MASTERS",
+      "district": "JUDSON ISD",
+      "total_pop": 747,
+      "ell_pop": 34,
+      "total_attn_rate": 95.8,
+      "ell_attn_rate": 94.7
+    },
+    "532": {
+      "id": 532,
+      "name": "ROLLING MEADOWS EL",
+      "district": "JUDSON ISD",
+      "total_pop": 912,
+      "ell_pop": 39,
+      "total_attn_rate": 96.2,
+      "ell_attn_rate": 96.4
+    },
+    "533": {
+      "id": 533,
+      "name": "COPPERFIELD EL",
+      "district": "JUDSON ISD",
+      "total_pop": 662,
+      "ell_pop": 14,
+      "total_attn_rate": 96.7,
+      "ell_attn_rate": 99.1
+    },
+    "534": {
+      "id": 534,
+      "name": "SOUTHSIDE H S",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 1575,
+      "ell_pop": 155,
+      "total_attn_rate": 91.3,
+      "ell_attn_rate": 90.7
+    },
+    "535": {
+      "id": 535,
+      "name": "SOUTHSIDE ALTER CTR",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 6,
+      "ell_pop": 1,
+      "total_attn_rate": 82.2,
+      "ell_attn_rate": -1
+    },
+    "536": {
+      "id": 536,
+      "name": "JULIUS L MATTHEY MIDDLE",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 803,
+      "ell_pop": 154,
+      "total_attn_rate": 94.1,
+      "ell_attn_rate": 95.5
+    },
+    "537": {
+      "id": 537,
+      "name": "W M PEARCE PRI",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 528,
+      "ell_pop": 119,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.5
+    },
+    "538": {
+      "id": 538,
+      "name": "LOSOYA INT",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 878,
+      "ell_pop": 217,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 96.5
+    },
+    "539": {
+      "id": 539,
+      "name": "HERITAGE EL",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 573,
+      "ell_pop": 137,
+      "total_attn_rate": 94.9,
+      "ell_attn_rate": 96.3
+    },
+    "540": {
+      "id": 540,
+      "name": "FREEDOM EL",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 644,
+      "ell_pop": 143,
+      "total_attn_rate": 95.3,
+      "ell_attn_rate": 96.7
+    },
+    "541": {
+      "id": 541,
+      "name": "JULIAN C GALLARDO EL",
+      "district": "SOUTHSIDE ISD",
+      "total_pop": 644,
+      "ell_pop": 93,
+      "total_attn_rate": 94.8,
+      "ell_attn_rate": 96.2
+    }
+  }
