@@ -1,13 +1,34 @@
 import React, { Component} from 'react';
 import { hot } from 'react-hot-loader';
 
-// data
-import meta from '../../data/meta.json';
-import staar from '../../data/staar.json';
+// modles
+import models from '../../models';
 
 // styles
 import './App.scss';
 
-const App = () => <p>Hallo Vorld!!!</p>
+class App extends Component {
+    constructor(props) {
+        super(props);
+        this.campuses = models.getCampuses();
+        this.state = {
+            campus: this.campuses.getEmptyCampus(),
+        };
+    }
+
+    setCampus(id) {
+        this.setState({
+            campus: this.campuses.getCampus(id)
+        })
+    }
+
+    render() {
+        const { campus } = this.state;
+
+        return(
+            <div className="App">{ campus.name }</div>
+        );
+    }
+}
 
 export default hot(module)(App);

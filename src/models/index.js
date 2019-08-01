@@ -2,6 +2,6 @@ import Campuses from './Campuses';
 
 const getCampuses = () => new Campuses();
 
-export {
+export default {
     getCampuses,
 }
