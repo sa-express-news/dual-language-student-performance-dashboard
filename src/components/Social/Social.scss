@@ -1,0 +1,17 @@
+@import 'node_modules/express-news-styleguide/init-base';
+
+.social {
+    cursor: pointer;
+    float: left;
+
+    img {
+        background: transparent;
+        padding: 4px 2px;
+        margin: 6px 0 3px;
+        width: 1.8em;
+
+        @include mediaquery($default-tablet) {
+            width: 2em;
+        }
+    }
+}

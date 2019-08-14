@@ -2,6 +2,7 @@ class Campuses {
     constructor() {
         this._meta = this._resetMeta();
         this._staar = this._resetStaar();
+        this._list = this._buildList();
         this._id = null;
     }
 
@@ -14,7 +15,7 @@ class Campuses {
     }
 
     _setID(id = null) {
-        this._id = id
+        this._id = id;
     }
 
     _getCampusByID() {
@@ -27,23 +28,37 @@ class Campuses {
         }
     }
 
+    _makeProperString(name) {
+        return name.split(/\s+/).map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
+    }
+    
+    _buildList() {
+        return Object.keys(this._meta).reduce((list, id) => {
+            list.push({
+                id: this._meta[id].id,
+                name: this._makeProperString(this._meta[id].name)
+            });
+            return list;
+        }, []);
+    }
+
     getEmptyCampus() {
         return {
-            id: -1,
+            id: null,
             name: '',
             district: '',
-            total_pop: -1,
-            ell_pop: -1,
-            total_attn_rate: -0.1,
-            ell_attn_rate: -0.1,
+            total_pop: null,
+            ell_pop: null,
+            total_attn_rate: null,
+            ell_attn_rate: null,
             staar_scores: {
-                id: -1,
-                all: -1,
-                dual_one_way: -1,
-                dual_two_way: -1,
-                esl_content: -1,
-                esl_pull_out: -1,
-                ell: -1
+                id: null,
+                all: null,
+                dual_one_way: null,
+                dual_two_way: null,
+                esl_content: null,
+                esl_pull_out: null,
+                ell: null
             },
         }
     }
@@ -51,6 +66,14 @@ class Campuses {
     getCampus(campusID) {
         this._setID(campusID)
         return this._getCampusByID();
+    }
+
+    getCampusList() {
+        return this._list;
+    }
+
+    cloneCampusList() {
+        return Object.assign({}, this._list);
     }
 }
 
