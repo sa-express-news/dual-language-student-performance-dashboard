@@ -1,4 +1,9 @@
 div.App {
+    a, a:visited {
+        color: #c1081b !important; // !important b/c the WCM is an irrational and violent overlord
+        text-decoration: none !important;
+    }
+
     div.wrapper {
         max-width: 1200px;
         min-width: 300px;
