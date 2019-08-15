@@ -1,17 +1,32 @@
 class Campuses {
     constructor() {
-        this._meta = this._resetMeta();
-        this._staar = this._resetStaar();
-        this._list = this._buildList();
+        this._showOnlyDualLanguage = false;
+        this._campuses = this._buildCampusHashMap();
+        this._list = this._buildCampusList();
         this._id = null;
     }
 
-    _resetMeta() {
-        return require('../data/meta.json');
+    _makeProperString(name) {
+        return name.split(/\s+/).map(
+            word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+        ).join(' ');
     }
 
-    _resetStaar() {
-        return require('../data/staar.json');
+    _mergeCampusProps(meta, staar) {
+        return Object.assign(this.getEmptyCampus(), meta, {
+            name: meta.name ? this._makeProperString(meta.name) : '',
+            staar_scores: staar,
+        });
+    }
+
+    _buildCampusHashMap() {
+        const meta  = require('../data/meta.json');
+        const staar = require('../data/staar.json');
+
+        return Object.keys(meta).reduce((map, id) => {
+            map.set(parseInt(id, 10), this._mergeCampusProps(meta[id], staar[id]));
+            return map;
+        }, new Map());
     }
 
     _setID(id = null) {
@@ -19,28 +34,31 @@ class Campuses {
     }
 
     _getCampusByID() {
-        if (this._meta[this._id] && this._staar[this._id]) {
-            return Object.assign(this.getEmptyCampus(), Object.assign({}, this._meta[this._id], {
-                staar_scores: this._staar[this._id],
-            }));
+        if (this._campuses.has(this._id)) {
+            return this._campuses.get(this._id);
         } else {
             return this.getEmptyCampus();
         }
     }
-
-    _makeProperString(name) {
-        return name.split(/\s+/).map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' ');
-    }
     
-    _buildList() {
-        return Object.keys(this._meta).reduce((list, id) => {
-            list.push({
-                id: this._meta[id].id,
-                name: this._makeProperString(this._meta[id].name)
-            });
-            return list;
-        }, []);
+    _buildCampusList() {
+        const list = [];
+        this._campuses.forEach(campus => {
+            if (
+                !this._showOnlyDualLanguage ||
+                (campus.dual_one_way && campus.dual_one_way > -1) ||
+                (campus.dual_two_way && campus.dual_two_way > -1)
+            ) {
+                list.push(campus);
+            }
+        });
+        return list;
     }
+
+    setShowOnlyDualLanguage(isOnlyDualLanguage = false) {
+        this._showOnlyDualLanguage = isOnlyDualLanguage;
+        this._list = this._buildCampusList();
+    } 
 
     getEmptyCampus() {
         return {
@@ -73,7 +91,7 @@ class Campuses {
     }
 
     cloneCampusList() {
-        return Object.assign({}, this._list);
+        return this._list.slice()
     }
 }
 

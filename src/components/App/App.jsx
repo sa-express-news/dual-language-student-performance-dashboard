@@ -1,4 +1,4 @@
-import React, { Component} from 'react';
+import React, { Component } from 'react';
 import { hot } from 'react-hot-loader';
 
 // modles
@@ -7,6 +7,7 @@ import models from '../../models';
 // components
 import NavBar from '../NavBar/NavBar';
 import Header from '../Header/Header';
+import Search from '../Search/Search';
 
 // styles
 import './App.scss';
@@ -18,6 +19,7 @@ class App extends Component {
         this.state = {
             campus: this.campuses.getCampus(186), // Bohnam Academy, 186, is default
         };
+        this.setCampus = this.setCampus.bind(this);
     }
 
     setCampus(id) {
@@ -34,6 +36,10 @@ class App extends Component {
                 <NavBar url="https://www.expressnews.com/" />
                 <div className="wrapper">
                     <Header />
+                    <Search
+                        setCampus={this.setCampus}
+                        campusList={this.campuses.cloneCampusList()}
+                    />
                 </div>
             </div>
         );

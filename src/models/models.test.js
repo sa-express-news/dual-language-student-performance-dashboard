@@ -1,6 +1,6 @@
 import Campuses from './Campuses';
 
-describe('Top 100 list tests', () => {
+describe('Campus model tests', () => {
     const campuses = new Campuses();
 
     test('getCampus returns selected campus by ID', () => {

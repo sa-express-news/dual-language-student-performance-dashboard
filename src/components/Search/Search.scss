@@ -1,0 +1,15 @@
+div.search {
+    background: rgba(204, 204, 204, 0.2);
+
+    input#search {
+        font-size: 14px;
+        height: 3vh;
+        padding: 20px;
+        width: 60%;
+        line-height: inherit;
+        color: inherit;
+        margin: 4px;
+        box-sizing: border-box;
+        border: 1px solid #d8d8d8;
+    }
+}
