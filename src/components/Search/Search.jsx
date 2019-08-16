@@ -5,20 +5,27 @@ import PropTypes from 'prop-types';
 import './Search.scss';
 
 class Search extends Component {
-    handeSearch() {
-
+    handleSearch(merp, mop) {
+        console.log(mop)
     }
 
     render() {
+        const { campusList } = this.props;
+
         return (
             <div className="search">
+                <p className="instructions">Search for a Bexar County elementary, middle or high school:</p>
                 <input
                     type="text"
-                    value="Eg. Alamo Heights HS"
-                    id="search"
+                    placeholder="Eg. Alamo Heights HS"
+                    id="searchbar"
+                    name="searchbar"
                     onChange={this.handleSearch}
-                    placeholder="Search the Top 100 by name or filter by category below"
+                    list="searchlist"
                 />
+                <datalist id="searchlist">
+                    { campusList.map(campus => (<option value={campus.name} key={campus.id} />)) }
+                </datalist>
             </div>
         );
     }
