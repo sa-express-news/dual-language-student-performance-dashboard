@@ -89,10 +89,6 @@ class Campuses {
     getCampusList() {
         return this._list;
     }
-
-    cloneCampusList() {
-        return this._list.slice()
-    }
 }
 
 export default Campuses

@@ -1,13 +1,15 @@
 import React, { Component } from 'react';
-import { hot } from 'react-hot-loader';
+import { hot }              from 'react-hot-loader';
 
 // modles
 import models from '../../models';
 
 // components
-import NavBar from '../NavBar/NavBar';
-import Header from '../Header/Header';
-import Search from '../Search/Search';
+import NavBar           from '../NavBar/NavBar';
+import Header           from '../Header/Header';
+import Search           from '../Search/Search';
+import ScatterPlot      from '../ScatterPlot/ScatterPlot';
+import Dashboard        from '../Dashboard/Dashboard';
 
 // styles
 import './App.scss';
@@ -24,7 +26,7 @@ class App extends Component {
 
     setCampus(id) {
         this.setState({
-            campus: this.campuses.getCampus(id)
+            campus: this.campuses.getCampus(id),
         })
     }
 
@@ -38,8 +40,11 @@ class App extends Component {
                     <Header />
                     <Search
                         setCampus={this.setCampus}
-                        campusList={this.campuses.cloneCampusList()}
+                        campusList={this.campuses.getCampusList()}
+                        isValidCampus={!!campus.id}
                     />
+                    <ScatterPlot campusList={this.campuses.getCampusList()} />
+                    {campus.id && <Dashboard campus={campus} />}
                 </div>
             </div>
         );

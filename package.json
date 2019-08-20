@@ -66,6 +66,7 @@
   },
   "dependencies": {
     "d3": "^5.9.7",
+    "datalist-polyfill": "^1.23.3",
     "express-news-styleguide": "^1.0.4",
     "normalize.css": "^8.0.1",
     "react": "^16.8.6",

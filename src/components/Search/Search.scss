@@ -1,6 +1,7 @@
 div.search {
     background: rgba(204, 204, 204, 0.2);
     padding-left: 20px;
+    padding-bottom: 20px;
     margin-top: 20px;
 
     p.instructions {
@@ -10,14 +11,36 @@ div.search {
 
     input#searchbar {
         font-size: 14px;
-        height: 3vh;
+        height: 42px;
         padding: 20px;
         width: 60%;
         line-height: inherit;
         color: inherit;
-        margin-bottom: 20px;
         box-sizing: border-box;
         border: 1px solid #d8d8d8;
         color: #555;
+    }
+
+    button {
+        width: 5%;
+        min-width: 42px;
+        height: 44px;
+        background: #2196F3;
+        color: white;
+        font-size: 14px;
+        border: 1px solid #d8d8d8;
+        border-left: none;
+        cursor: pointer;
+    }
+      
+    button:hover {
+        background: #0b7dda;
+    }
+
+    div.no-canvas {
+        padding-top: 10px;
+        color: #c1081b;
+        font-style: italic;
+        font-size: 0.9rem;
     }
 }

@@ -1,16 +1,40 @@
 import React, { Component } from 'react';
-import PropTypes from 'prop-types';
+import PropTypes            from 'prop-types';
 
 // styles
 import './Search.scss';
 
 class Search extends Component {
-    handleSearch(merp, mop) {
-        console.log(mop)
+    constructor(props) {
+        super(props);
+        this.state = {
+            searchTerm: '',
+        }
+        this.handleOnChange = this.handleOnChange.bind(this);
+        this.handleKeyDown  = this.handleKeyDown.bind(this);
+        this.getSchool      = this.getSchool.bind(this);
+    }
+
+    handleOnChange(event) {
+        this.setState({
+            searchTerm: event.target.value,
+        });
+    }
+
+    handleKeyDown(event) {
+        if (event.keyCode === 13) {
+            this.getSchool();
+        }
+    }
+
+    getSchool() {
+        const { setCampus, campusList } = this.props;
+        const school = campusList.find(({ name }) => this.state.searchTerm === name);
+        return school ? setCampus(school.id) : setCampus(null);
     }
 
     render() {
-        const { campusList } = this.props;
+        const { campusList, isValidCampus } = this.props;
 
         return (
             <div className="search">
@@ -20,12 +44,15 @@ class Search extends Component {
                     placeholder="Eg. Alamo Heights HS"
                     id="searchbar"
                     name="searchbar"
-                    onChange={this.handleSearch}
+                    onChange={this.handleOnChange}
+                    onKeyDown={this.handleKeyDown}
                     list="searchlist"
                 />
-                <datalist id="searchlist">
+                <datalist id="searchlist" onChange={this.merp}>
                     { campusList.map(campus => (<option value={campus.name} key={campus.id} />)) }
                 </datalist>
+                <button type="submit"><i className="fa fa-search" onClick={this.getSchool}></i></button>
+                {!isValidCampus && (<div className="no-canvas">... Please select a campus from the dropdown list.</div>)}
             </div>
         );
     }
@@ -51,6 +78,7 @@ Search.propTypes = {
             ell: PropTypes.number
         }).isRequired,
     })).isRequired,
+    isValidCampus: PropTypes.bool.isRequired,
 }
 
 export default Search

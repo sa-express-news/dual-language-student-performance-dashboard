@@ -7,7 +7,7 @@ describe('Campus model tests', () => {
         let campus = campuses.getCampus(7);
         expect(campus.id).toBe(7);
 
-        campus = campuses.getCampus(null)
+        campus = campuses.getCampus(undefined)
         expect(campus.id).toBe(null);
     });
 
