@@ -20,8 +20,15 @@ class App extends Component {
         this.campuses = models.getCampuses();
         this.state = {
             campus: this.campuses.getCampus(186), // Bohnam Academy, 186, is default
+            width: 0,
         };
         this.setCampus = this.setCampus.bind(this);
+    }
+
+    componentDidMount() {
+        this.setState({
+            width: document.querySelector('div.App div.wrapper').clientWidth,
+        });
     }
 
     setCampus(id) {
@@ -31,7 +38,7 @@ class App extends Component {
     }
 
     render() {
-        const { campus } = this.state;
+        const { campus, width } = this.state;
 
         return(
             <div className="App">
@@ -43,7 +50,13 @@ class App extends Component {
                         campusList={this.campuses.getCampusList()}
                         isValidCampus={!!campus.id}
                     />
-                    <ScatterPlot campusList={this.campuses.getCampusList()} />
+                    <ScatterPlot
+                        campusList={this.campuses.getCleanCampusList()}
+                        isOnlyDualLanguage={this.campuses.isOnlyDualLanguage()}
+                        width={width}
+                        currCampus={campus.id}
+                        setCampus={this.setCampus}
+                    />
                     {campus.id && <Dashboard campus={campus} />}
                 </div>
             </div>

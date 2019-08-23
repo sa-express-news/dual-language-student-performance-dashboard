@@ -44,21 +44,27 @@ class Campuses {
     _buildCampusList() {
         const list = [];
         this._campuses.forEach(campus => {
+            if (campus.staar_scores.dual_one_way) console.log(typeof campus.staar_scores.dual_one_way )
             if (
                 !this._showOnlyDualLanguage ||
-                (campus.dual_one_way && campus.dual_one_way > -1) ||
-                (campus.dual_two_way && campus.dual_two_way > -1)
+                (campus.staar_scores.dual_one_way && campus.staar_scores.dual_one_way > -1) ||
+                (campus.staar_scores.dual_two_way && campus.staar_scores.dual_two_way > -1)
             ) {
                 list.push(campus);
             }
         });
-        return list;
+        const key = this._showOnlyDualLanguage ? 'dual_two_way' : 'ell';
+        return list.sort((a, b) => (a.staar_scores[key] < b.staar_scores[key]) ? 1 : -1);
     }
 
     setShowOnlyDualLanguage(isOnlyDualLanguage = false) {
         this._showOnlyDualLanguage = isOnlyDualLanguage;
         this._list = this._buildCampusList();
-    } 
+    }
+
+    isOnlyDualLanguage() {
+        return this._showOnlyDualLanguage;
+    }
 
     getEmptyCampus() {
         return {
@@ -88,6 +94,16 @@ class Campuses {
 
     getCampusList() {
         return this._list;
+    }
+
+    getCleanCampusList() {
+        return this._list.filter(campus => { // filter out campuses with null or -1 values
+            const { total_pop, ell_pop } = campus;
+            const { ell } = campus.staar_scores;
+            return total_pop && total_pop > -1 &&
+                ell_pop && ell_pop > -1 &&
+                ell && ell > -1;
+        });
     }
 }
 

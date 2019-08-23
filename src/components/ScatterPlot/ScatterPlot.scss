@@ -1,4 +1,51 @@
 div.scatter-plot {
     width: 100%;
-    height: 300px;
+
+    div.title {
+        font-size: 1.1em;
+        font-weight: bold;
+        margin: 20px 0 5px;
+        text-decoration: underline;
+    }
+
+    div.chatter {
+        margin-bottom: 2px;
+    }
+
+    div.action {
+        color: rgb(33,150,243);
+    }
+
+    g.gridlines g.tick line {
+        stroke: rgba(0,0,0,0.1)
+    }
+
+    g.point {
+        circle {
+            cursor: pointer;
+        }
+
+        g.tooltip {
+            visibility: hidden;
+            z-index: 1000;
+
+            path {	
+                fill: rgba(255,255,255,0.9);
+                stroke-opacity: 0.8;
+                stroke-width: 1px;
+            }
+
+            text {
+                font-size: 12px;
+            }
+
+            &:hover {
+                visibility: hidden !important;
+            }
+        }
+
+        &:hover g.tooltip {
+            visibility: visible;
+        }
+    }
 }
