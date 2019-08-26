@@ -44,7 +44,6 @@ class Campuses {
     _buildCampusList() {
         const list = [];
         this._campuses.forEach(campus => {
-            if (campus.staar_scores.dual_one_way) console.log(typeof campus.staar_scores.dual_one_way )
             if (
                 !this._showOnlyDualLanguage ||
                 (campus.staar_scores.dual_one_way && campus.staar_scores.dual_one_way > -1) ||

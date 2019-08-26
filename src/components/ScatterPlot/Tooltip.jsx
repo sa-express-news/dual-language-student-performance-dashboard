@@ -45,7 +45,6 @@ const getData = (width, height, offset, radius) => {
 };
 
 const Tooltip = ({ campus, staarKey, isSelectedCampus }) => {
-    if (campus.name === 'Kipp Aspire Academy') console.log(campus)
     const width     = 120;
     const height    = 50;
     const offset    = 5;

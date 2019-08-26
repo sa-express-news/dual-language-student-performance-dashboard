@@ -26,6 +26,14 @@ const Points = ({
                 staarKey={staarKey}
                 isSelectedCampus={isSelectedCampus(campus, currCampus)}
             />
+            {isSelectedCampus && (
+                <circle
+                    r={4}
+                    fill={`rgba(${color},0.3)`}
+                    stroke={`rgba(${color},0.8)`}
+                    strokeWidth="1"
+                />
+            )}
             <circle
                 r={radius}
                 fill={`rgba(${color},0.3)`}

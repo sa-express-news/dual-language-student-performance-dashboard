@@ -37,6 +37,10 @@ div.scatter-plot {
 
             text {
                 font-size: 12px;
+
+                &.name {
+                    font-weight: bold;
+                }
             }
 
             &:hover {

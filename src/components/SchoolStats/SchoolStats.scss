@@ -1,0 +1,37 @@
+@import '~express-news-styleguide/init-base';
+
+div.school-stats {
+    display: flex;
+    flex-flow: row wrap;
+    align-items: baseline;
+    width: 100%;
+    justify-content: flex-start;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+    div.block-wrapper {
+        width: 50%;
+        justify-content: center;
+		flex-flow: row wrap;
+		text-align: center;
+		display: flex;
+        padding: 10px 0;
+        
+        .number {
+			color: #c1081b;
+			font-size: 2rem;
+		}
+
+		.desc {
+			font-weight: 300;
+			font-size: 1.1em;
+        }
+        
+        @include mediaquery(500px) {
+			width: 25%;
+
+			&.title .content {
+				max-width: 50%;
+			}
+		}
+    }
+}

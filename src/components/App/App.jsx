@@ -5,11 +5,12 @@ import { hot }              from 'react-hot-loader';
 import models from '../../models';
 
 // components
-import NavBar           from '../NavBar/NavBar';
-import Header           from '../Header/Header';
-import Search           from '../Search/Search';
-import ScatterPlot      from '../ScatterPlot/ScatterPlot';
-import Dashboard        from '../Dashboard/Dashboard';
+import NavBar               from '../NavBar/NavBar';
+import Header               from '../Header/Header';
+import Search               from '../Search/Search';
+import ToggleDualLanguage   from '../ToggleDualLanguage/ToggleDualLanguage';
+import ScatterPlot          from '../ScatterPlot/ScatterPlot';
+import Dashboard            from '../Dashboard/Dashboard';
 
 // styles
 import './App.scss';
@@ -20,9 +21,11 @@ class App extends Component {
         this.campuses = models.getCampuses();
         this.state = {
             campus: this.campuses.getCampus(186), // Bohnam Academy, 186, is default
+            isOnlyDualLanguage: this.campuses.isOnlyDualLanguage(),
             width: 0,
         };
-        this.setCampus = this.setCampus.bind(this);
+        this.setCampus              = this.setCampus.bind(this);
+        this.setIsOnlyDualLanguage  = this.setIsOnlyDualLanguage.bind(this);
     }
 
     componentDidMount() {
@@ -37,8 +40,15 @@ class App extends Component {
         })
     }
 
+    setIsOnlyDualLanguage(isOnlyDualLanguage) {
+        this.campuses.setShowOnlyDualLanguage(isOnlyDualLanguage);
+        this.setState({
+            isOnlyDualLanguage: this.campuses.isOnlyDualLanguage(),
+        });
+    }
+
     render() {
-        const { campus, width } = this.state;
+        const { campus, isOnlyDualLanguage, width } = this.state;
 
         return(
             <div className="App">
@@ -49,6 +59,10 @@ class App extends Component {
                         setCampus={this.setCampus}
                         campusList={this.campuses.getCampusList()}
                         isValidCampus={!!campus.id}
+                    />
+                    <ToggleDualLanguage
+                        setShowOnlyDualLanguage={this.setIsOnlyDualLanguage}
+                        isOnlyDualLanguage={isOnlyDualLanguage}
                     />
                     <ScatterPlot
                         campusList={this.campuses.getCleanCampusList()}

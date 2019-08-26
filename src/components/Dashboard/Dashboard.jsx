@@ -1,10 +1,23 @@
 import React        from 'react';
 import PropTypes    from 'prop-types';
 
+// components
+import SchoolStats from '../SchoolStats/SchoolStats';
+
 // styles
 import './Dashboard.scss';
 
-const Dashboard = ({ campus }) => <div>{campus.name}</div>;
+const Dashboard = ({ campus }) => (
+    <div className="dashboard">
+        <h2>{campus.name}</h2>
+        <SchoolStats
+            totalPop={campus.total_pop}
+            ellPop={campus.ell_pop}
+            totalAttnRate={campus.total_attn_rate}
+            ellAttnRate={campus.ell_attn_rate}
+        />
+    </div>
+)
 
 Dashboard.propTypes = {
     campus: PropTypes.shape({
