@@ -29,7 +29,7 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
     return (
         <div className="scatter-plot">
             <div className="title">Schools ranked by average Staar score</div>
-            <div className="chatter">{`Each point represents a Bexar County school. The vertical axis is the ${staarLabel} staar score and the horizontal axis represents the all student average score.`}</div>
+            <div className="chatter">{`Each point represents a Bexar County school. The vertical axis is the ${staarLabel} staar score and the horizontal axis represents the all student average score. The currently selected school is in blue.`}</div>
             <div className="action">Click on any school for more details.</div>
             <svg width={width} height={height}>
                  <g>

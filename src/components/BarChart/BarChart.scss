@@ -1,0 +1,57 @@
+@import '~express-news-styleguide/init-base';
+
+$label-width: 26%;
+
+div.bar-chart {
+    width: 100%;
+
+    div.title {
+        font-size: 1.1em;
+        font-weight: bold;
+        margin: 15px 0;
+    }
+
+    div.bar {
+        @include clearfix;
+        max-width: 800px;
+        width: 100%;
+
+        .row-label {
+            float: left;
+            padding: .5em 1em .5em 0;
+            text-align: right;
+            width: $label-width;
+            font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+            font-weight: 300;
+            font-size: 0.9em;
+
+            @include mediaquery(450px) {
+                font-size: 1.1em;
+            }
+        }
+
+        .row-bar {
+            float: left;
+            padding: 0 35px .75em 0;
+            width: 95% - $label-width;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        }
+
+        .bar-color {
+            background-color: #FFF;
+            border: rgba(33,150,243,0.8) solid 1px;
+            border-bottom: rgba(33,150,243,0.8) solid 1px;
+            display: block;
+            height: 100%;
+            padding: .5em .5em .5em 0;
+            text-align: right;
+        }
+
+        .bar-value {
+            color: #000;
+            position: relative;
+            left: 35px;
+        }
+    }
+}
