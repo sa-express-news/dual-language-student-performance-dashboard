@@ -1,4 +1,5 @@
 const path = require("path");
+const npmConfig = require("./package.json");
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const UglifyJsPlugin = require("uglifyjs-webpack-plugin");
 const MiniCssExtractPlugin = require("mini-css-extract-plugin");
@@ -8,7 +9,7 @@ module.exports = {
     mode: "production",
     output: {
         path: path.resolve(__dirname, "dist/"),
-        publicPath: '/',
+        publicPath: npmConfig.s3Bucket,
         filename: 'static/js/[name].[chunkhash:8].js',
         chunkFilename: 'static/js/[name].[chunkhash:8].chunk.js',
     },
