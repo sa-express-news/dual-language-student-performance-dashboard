@@ -11,4 +11,31 @@ div.App {
         width: 100%;
         font-family: 'Lora', serif;
     }
+
+    div.definitions {
+        width: 100%;
+        margin: 30px 0;
+        padding-top: 20px;
+        border-top: 1px rgba(0, 0, 0, 0.2) solid;
+
+        div.title {
+            margin-bottom: 5px;
+            font-size: 1.1em;
+        }
+
+        ul {
+            padding: 10px;
+            margin: 0;
+            
+            li {
+                margin-bottom: 8px;
+                color: #333;
+                font-size: 0.8em;
+
+                span {
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
 }

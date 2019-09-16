@@ -64,6 +64,7 @@ class App extends Component {
                         setShowOnlyDualLanguage={this.setIsOnlyDualLanguage}
                         isOnlyDualLanguage={isOnlyDualLanguage}
                     />
+                    {campus.id && <Dashboard campus={campus} />}
                     <ScatterPlot
                         campusList={this.campuses.getCleanCampusList()}
                         isOnlyDualLanguage={this.campuses.isOnlyDualLanguage()}
@@ -71,7 +72,15 @@ class App extends Component {
                         currCampus={campus.id}
                         setCampus={this.setCampus}
                     />
-                    {campus.id && <Dashboard campus={campus} />}
+                    <div className="definitions">
+                        <div className="title">Definitions</div>
+                        <ul>
+                            <li><span>Two-way dual language:</span> Integrates native English speakers with native speakers of another language, usually Spanish. All academic subjects are taught in both languages, with the goal of achieving literacy and spoken fluency in both languages.</li>
+                            <li><span>One-way dual language:</span> Serves only students with limited English. All academic subjects are taught in English and another language (usually Spanish) with the goal of achieving literacy and spoken fluency in both languages.</li>
+                            <li><span>Content-based English as a second language:</span> Serves students with limited English. Provides a full-time certified teacher for supplemental help with all academic content areas such as mathematics, science and social studies.</li>
+                            <li><span>Pull-out English as a second language:</span> Serves students with limited English. Provides a part-time certified teacher for English language arts instruction, while students remain in mainstream classes for all other subjects.</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         );

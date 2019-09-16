@@ -43,9 +43,9 @@ const getMax = staarScores => orderedKeys.reduce((max, key) => {
     return staarScores[key] > max ? staarScores[key] : max;
 }, 0);
 
-const BarChart = ({ staarScores }) => (
+const BarChart = ({ staarScores, name }) => (
     <div className="bar-chart">
-        <div className="title">Staar score average</div>
+        <div className="title">{ name } STAAR score average</div>
         { getRows(staarScores, getMax(staarScores)) }
     </div>
 );
@@ -60,6 +60,7 @@ BarChart.propTypes = {
         esl_pull_out: PropTypes.number,
         ell: PropTypes.number
     }).isRequired,
+    name: PropTypes.string.isRequired,
 };
 
 export default BarChart

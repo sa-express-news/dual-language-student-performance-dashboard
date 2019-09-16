@@ -12,7 +12,7 @@ import './ScatterPlot.scss';
 const getScale = (domain, range) => d3.scaleLinear().domain(domain).range(range).nice();
 
 const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCampus }) => {
-    const height        = width * 0.28;
+    const height        = width * 0.3;
     const padding       = width * 0.04;
     const staarKey      = isOnlyDualLanguage ? 'dual_two_way' : 'ell';
     const staarLabel    = isOnlyDualLanguage ? 'Dual Language' : 'All Ell';
