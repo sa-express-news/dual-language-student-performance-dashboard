@@ -40,19 +40,24 @@ class Campuses {
             return this.getEmptyCampus();
         }
     }
+
+    _getDualHighScore(campus) {
+        const { dual_one_way, dual_two_way } = campus.staar_scores;
+        const high = dual_one_way > dual_two_way ? dual_one_way : dual_two_way;
+        return high && high > -1 ? high : null;
+    }
     
     _buildCampusList() {
         const list = [];
         this._campuses.forEach(campus => {
+            campus.staar_scores.dual_high_score = this._getDualHighScore(campus);
             if (
-                !this._showOnlyDualLanguage ||
-                (campus.staar_scores.dual_one_way && campus.staar_scores.dual_one_way > -1) ||
-                (campus.staar_scores.dual_two_way && campus.staar_scores.dual_two_way > -1)
+                !this._showOnlyDualLanguage || campus.staar_scores.dual_high_score
             ) {
                 list.push(campus);
             }
         });
-        const key = this._showOnlyDualLanguage ? 'dual_two_way' : 'ell';
+        const key = this._showOnlyDualLanguage ? 'dual_high_score' : 'ell';
         return list.sort((a, b) => (a.staar_scores[key] < b.staar_scores[key]) ? 1 : -1);
     }
 

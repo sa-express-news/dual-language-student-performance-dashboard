@@ -1,5 +1,12 @@
+@import '~express-news-styleguide/init-base';
+
 div.scatter-plot {
     width: 100%;
+    display: none;
+
+    @include mediaquery($default-tablet) {
+        display: block;
+    }
 
     div.title {
         font-size: 1.1em;
@@ -13,6 +20,7 @@ div.scatter-plot {
 
     div.action {
         color: rgb(33,150,243);
+        margin-top: 8px;
     }
 
     g.gridlines g.tick line {

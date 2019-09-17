@@ -1,16 +1,10 @@
 div.dashboard {
+    margin-bottom: 10px;
+
     h2 {
         font-size: 28px;
         margin: 20px 0;
         color: #333;
         text-align: center;
-    }
-
-    hr {
-        border: 0;
-        height: 1px;
-        background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
-        width: 90%;
-        max-width: 800px;
     }
 }

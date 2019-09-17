@@ -22,16 +22,20 @@ class App extends Component {
         this.state = {
             campus: this.campuses.getCampus(186), // Bohnam Academy, 186, is default
             isOnlyDualLanguage: this.campuses.isOnlyDualLanguage(),
-            width: 0,
+            scatterPlotWidth: 0,
         };
+        this.setScatterPlotWidth    = this.setScatterPlotWidth.bind(this);
         this.setCampus              = this.setCampus.bind(this);
         this.setIsOnlyDualLanguage  = this.setIsOnlyDualLanguage.bind(this);
     }
 
     componentDidMount() {
-        this.setState({
-            width: document.querySelector('div.App div.wrapper').clientWidth,
-        });
+        this.setScatterPlotWidth();
+        window.addEventListener('resize', this.setScatterPlotWidth);
+    }
+
+    componentWillUnmount() {
+        window.removeEventListener('resize', this.setScatterPlotWidth);
     }
 
     setCampus(id) {
@@ -47,28 +51,34 @@ class App extends Component {
         });
     }
 
+    setScatterPlotWidth() {
+        this.setState({
+            scatterPlotWidth: document.querySelector('div.App div.wrapper').clientWidth,
+        });
+    }
+
     render() {
-        const { campus, isOnlyDualLanguage, width } = this.state;
+        const { campus, isOnlyDualLanguage, scatterPlotWidth } = this.state;
 
         return(
             <div className="App">
                 <NavBar url="https://www.expressnews.com/" />
                 <div className="wrapper">
                     <Header />
+                    <ToggleDualLanguage
+                        setShowOnlyDualLanguage={this.setIsOnlyDualLanguage}
+                        isOnlyDualLanguage={isOnlyDualLanguage}
+                    />
                     <Search
                         setCampus={this.setCampus}
                         campusList={this.campuses.getCampusList()}
                         isValidCampus={!!campus.id}
                     />
-                    <ToggleDualLanguage
-                        setShowOnlyDualLanguage={this.setIsOnlyDualLanguage}
-                        isOnlyDualLanguage={isOnlyDualLanguage}
-                    />
                     {campus.id && <Dashboard campus={campus} />}
                     <ScatterPlot
                         campusList={this.campuses.getCleanCampusList()}
                         isOnlyDualLanguage={this.campuses.isOnlyDualLanguage()}
-                        width={width}
+                        width={scatterPlotWidth}
                         currCampus={campus.id}
                         setCampus={this.setCampus}
                     />

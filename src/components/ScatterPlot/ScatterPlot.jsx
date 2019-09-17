@@ -12,10 +12,11 @@ import './ScatterPlot.scss';
 const getScale = (domain, range) => d3.scaleLinear().domain(domain).range(range).nice();
 
 const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCampus }) => {
-    const height        = width * 0.3;
+    const height        = width * 0.35;
     const padding       = width * 0.04;
-    const staarKey      = isOnlyDualLanguage ? 'dual_two_way' : 'ell';
-    const staarLabel    = isOnlyDualLanguage ? 'Dual Language' : 'All Ell';
+    const tabletPad     = window.innerWidth < 980 ? 4 : 0;
+    const staarKey      = isOnlyDualLanguage ? 'dual_high_score' : 'ell';
+    const staarLabel    = isOnlyDualLanguage ? 'Dual Language' : 'Ell';
     
     const xScale = getScale(
         [40, d3.max(campusList.map(campus => campus.staar_scores.all))],
@@ -28,9 +29,10 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
 
     return (
         <div className="scatter-plot">
-            <div className="title">Schools ranked by average Staar score</div>
-            <div className="chatter">{`Each point represents a Bexar County school. The vertical axis is the ${staarLabel} staar score and the horizontal axis represents the all student average score. The currently selected school is in blue.`}</div>
-            <div className="action">Click on any school for more details.</div>
+            <hr />
+            <div className="title">Schools ranked by average STAAR score</div>
+            <div className="chatter">{`Each red circle represents a Bexar County school and they've been plotted by STAAR score ranking. The vertical axis is the ${staarLabel} STAAR score and the horizontal axis represents the all student average score. Thus, schools in the top right corner performed best on ${staarLabel} program STAAR scores and campuswide. Schools on the bottom left performed worst. The school in the above bar chart is highlighted in blue.`}</div>
+            <div className="action"><em>Click on any school to see performance details in the bar chart above.</em></div>
             <svg width={width} height={height}>
                  <g>
                     <Axis
@@ -52,23 +54,23 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
                      <Axis
                         type="axisLeft"
                         scale={yScale}
-                        translate={`translate(${padding}, 0)`}
+                        translate={`translate(${padding + tabletPad}, 0)`}
                      />
                      <Axis
                         type="axisBottom"
                         scale={xScale}
-                        translate={`translate(0, ${height - padding})`}
+                        translate={`translate(0, ${height - padding - tabletPad})`}
                      />
                      <text
                         transform={`translate(${width / 2}, ${height - 10})`}
                         textAnchor="middle"
-                    >All students</text>
+                    >Campuswide STAAR score average</text>
                      <text
                         transform="rotate(-90)"
                         textAnchor="middle"
                         x={height / -2}
                         y="12"
-                    >{`${staarLabel} students`}</text>
+                    >{`${staarLabel} STAAR score avg`}</text>
                  </g>
             </svg>
         </div>

@@ -1,3 +1,5 @@
+@import '~express-news-styleguide/init-base';
+
 div.search {
     background: rgba(204, 204, 204, 0.2);
     padding-left: 20px;
@@ -13,12 +15,16 @@ div.search {
         font-size: 14px;
         height: 42px;
         padding: 20px;
-        width: 60%;
+        width: 80%;
         line-height: inherit;
         color: inherit;
         box-sizing: border-box;
         border: 1px solid #d8d8d8;
         color: #555;
+
+        @include mediaquery($default-desktop) {
+            width: 60%;
+        }
     }
 
     button {

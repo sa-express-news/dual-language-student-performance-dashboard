@@ -11,7 +11,6 @@ import './Dashboard.scss';
 const Dashboard = ({ campus }) => (
     <div className="dashboard">
         <h2>{campus.name}</h2>
-        <hr />
         <SchoolStats
             totalPop={campus.total_pop}
             ellPop={campus.ell_pop}

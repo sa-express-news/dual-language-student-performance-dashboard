@@ -1,3 +1,5 @@
+@import '~express-news-styleguide/init-base';
+
 div.header {
     border-bottom: 1px rgba(0,0,0,0.2) solid;
 
@@ -11,11 +13,16 @@ div.header {
         font-size: 16px;
         line-height: 1.5em;
         margin-bottom: 1em;
+        text-align: center;
 
         &.byline {
             text-align: center;
             color: #666;
             font-style: italic;
+        }
+
+        @include mediaquery($default-tablet) {
+            text-align: left;
         }
     }
 }

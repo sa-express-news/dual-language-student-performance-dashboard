@@ -3,22 +3,20 @@ import PropTypes    from 'prop-types';
 
 const getText = (width, height, offset, campus, staarKey) => {
     const len           = campus.name.length
-    const textLength    = len < 17 ? null : `${width * 0.95}`;
-    const name          = len < 17 ? campus.name : campus.name.slice(0, 16) + '...';
-    const scoreLabel    = staarKey === 'ell' ? 'Ell' : 'DL'
-    const score         = `${scoreLabel} staar score: ${campus.staar_scores[staarKey]}`;
+    const name          = len < 22 ? campus.name : campus.name.slice(0, 21) + '...';
+    const scoreLabel    = staarKey === 'ell' ? 'Ell' : 'Dual Language'
+    const score         = `${scoreLabel} score: ${campus.staar_scores[staarKey]}`;
 
     return (
         <g>
             <text
-                textLength={textLength}
                 y={((height * 0.62) + offset) * -1}
-                x={-56}
+                x={-70}
                 className="name"
             >{name}</text>
             <text
                 y={((height * 0.62) + offset) * -1}
-                x={-56}
+                x={-70}
                 dy={20}
             >{score}</text>
         </g>
@@ -45,7 +43,7 @@ const getData = (width, height, offset, radius) => {
 };
 
 const Tooltip = ({ campus, staarKey, isSelectedCampus }) => {
-    const width     = 120;
+    const width     = 160;
     const height    = 50;
     const offset    = 5;
     const radius    = 5;

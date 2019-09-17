@@ -51,7 +51,7 @@ class Search extends Component {
                 <datalist id="searchlist" onChange={this.merp}>
                     { campusList.map(campus => (<option value={campus.name} key={campus.id} />)) }
                 </datalist>
-                <button type="submit"><i className="fa fa-search" onClick={this.getSchool}></i></button>
+                <button type="submit" onClick={this.getSchool}><i className="fa fa-search"></i></button>
                 {!isValidCampus && (<div className="no-canvas">... Please select a campus from the dropdown list.</div>)}
             </div>
         );
