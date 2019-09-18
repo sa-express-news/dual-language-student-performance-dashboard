@@ -1,11 +1,10 @@
 import React        from 'react';
 import PropTypes    from 'prop-types';
 
-const getText = (width, height, offset, campus, staarKey) => {
+const getText = (height, offset, campus, staarKey, staarLabel) => {
     const len           = campus.name.length
     const name          = len < 22 ? campus.name : campus.name.slice(0, 21) + '...';
-    const scoreLabel    = staarKey === 'ell' ? 'Ell' : 'Dual Language'
-    const score         = `${scoreLabel} score: ${campus.staar_scores[staarKey]}`;
+    const score         = `${staarLabel} score: ${campus.staar_scores[staarKey]}`;
 
     return (
         <g>
@@ -42,7 +41,7 @@ const getData = (width, height, offset, radius) => {
         L ${0},${0} z`;
 };
 
-const Tooltip = ({ campus, staarKey, isSelectedCampus }) => {
+const Tooltip = ({ campus, staarKey, staarLabel, isSelectedCampus }) => {
     const width     = 160;
     const height    = 50;
     const offset    = 5;
@@ -52,7 +51,7 @@ const Tooltip = ({ campus, staarKey, isSelectedCampus }) => {
     return (
         <g className="tooltip">
             <path d={getData(width, height, offset, radius)} stroke={stroke} />
-            {getText(width, height, offset, campus, staarKey)}
+            {getText(height, offset, campus, staarKey, staarLabel)}
         </g>
     );
 }
@@ -77,6 +76,7 @@ Tooltip.propTypes = {
         }).isRequired,
     }).isRequired,
     staarKey: PropTypes.string.isRequired,
+    staarLabel: PropTypes.string.isRequired,
     isSelectedCampus: PropTypes.bool.isRequired,
 }
 

@@ -22,7 +22,7 @@ const titleMap = {
     dual_two_way: 'Dual two way',
     esl_content: 'Content-based ESL',
     esl_pull_out: 'Pull-out ESL',
-    ell: 'All ELL students',
+    ell: 'All EL students',
 };
 
 const getBarID = key => key.split('_').join('-');

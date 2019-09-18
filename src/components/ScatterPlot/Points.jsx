@@ -13,6 +13,7 @@ const Points = ({
     xScale,
     yScale,
     staarKey,
+    staarLabel,
     currCampus,
     setCampus
 }) => campusList.map((campus, idx) => {
@@ -24,6 +25,7 @@ const Points = ({
             <Tooltip
                 campus={campus}
                 staarKey={staarKey}
+                staarLabel={staarLabel}
                 isSelectedCampus={isSelectedCampus(campus, currCampus)}
             />
             {isSelectedCampus && (
@@ -67,6 +69,7 @@ Points.propTypes = {
     xScale: PropTypes.func.isRequired,
     yScale: PropTypes.func.isRequired,
     staarKey: PropTypes.string.isRequired,
+    staarLabel: PropTypes.string.isRequired,
     currCampus: PropTypes.number,
     setCampus: PropTypes.func.isRequired,
 };

@@ -16,7 +16,7 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
     const padding       = width * 0.04;
     const tabletPad     = window.innerWidth < 980 ? 4 : 0;
     const staarKey      = isOnlyDualLanguage ? 'dual_high_score' : 'ell';
-    const staarLabel    = isOnlyDualLanguage ? 'Dual Language' : 'Ell';
+    const staarLabel    = isOnlyDualLanguage ? 'dual language' : 'EL';
     
     const xScale = getScale(
         [40, d3.max(campusList.map(campus => campus.staar_scores.all))],
@@ -26,6 +26,8 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
         [20, d3.max(campusList.map(campus => campus.staar_scores[staarKey]))],
         [height - padding, padding]
     );
+
+    const capitalizeFirstLetter = str => str.charAt(0).toUpperCase() + str.slice(1);
 
     return (
         <div className="scatter-plot">
@@ -48,6 +50,7 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
                         xScale={xScale}
                         yScale={yScale}
                         staarKey={staarKey}
+                        staarLabel={capitalizeFirstLetter(staarLabel)}
                         currCampus={currCampus}
                         setCampus={setCampus}
                      />
@@ -70,7 +73,7 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
                         textAnchor="middle"
                         x={height / -2}
                         y="12"
-                    >{`${staarLabel} STAAR score avg`}</text>
+                    >{`${capitalizeFirstLetter(staarLabel)} STAAR score avg`}</text>
                  </g>
             </svg>
         </div>

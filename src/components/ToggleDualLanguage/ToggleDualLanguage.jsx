@@ -9,7 +9,7 @@ const ToggleDualLanguage = ({ setShowOnlyDualLanguage, isOnlyDualLanguage }) => 
         <label className="container">
             <input type="radio" onChange={() => setShowOnlyDualLanguage(false)} checked={!isOnlyDualLanguage} value="ell" />
             <span className="checkmark left"></span>
-            <span className="label left">All ELL</span>
+            <span className="label left">All EL</span>
         </label>
         <label className="container">
             <input type="radio" onChange={() => setShowOnlyDualLanguage(true)} checked={isOnlyDualLanguage} value="dual-language" />
