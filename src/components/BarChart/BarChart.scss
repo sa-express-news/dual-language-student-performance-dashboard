@@ -24,7 +24,7 @@ div.bar-chart {
 
         .row-label {
             float: left;
-            padding: .5em 1em .5em 0;
+            padding: 0 1em .5em 0;
             text-align: right;
             width: $label-width;
             font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -33,6 +33,10 @@ div.bar-chart {
 
             @include mediaquery(450px) {
                 font-size: 1.1em;
+            }
+
+            @include mediaquery($default-tablet) {
+                padding: .5em 1em .5em 0;
             }
         }
 

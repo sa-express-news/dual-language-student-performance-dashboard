@@ -17,12 +17,12 @@ const orderedKeys = [
 ];
 
 const titleMap = {
-    all: 'All students',
-    dual_one_way: 'Dual one way',
-    dual_two_way: 'Dual two way',
-    esl_content: 'Content-based ESL',
-    esl_pull_out: 'Pull-out ESL',
-    ell: 'All EL students',
+    all: 'Todos los estudiantes',
+    dual_one_way: 'Lenguaje dual unidireccional',
+    dual_two_way: 'Lenguaje dual bidireccional',
+    esl_content: 'ESL basado en el contenido',
+    esl_pull_out: 'ESL "pull-put"',
+    ell: 'Todos los estudiantes EL',
 };
 
 const getBarID = key => key.split('_').join('-');

@@ -1,6 +1,6 @@
 {
   "name": "dual-language-student-performance-explorer",
-  "s3Bucket": "https://s3.amazonaws.com/projects.expressnews.com/dual-language-explorer/",
+  "s3Bucket": "https://s3.amazonaws.com/projects.expressnews.com/explorador-de-rendimiento-del-estudiante-de-lenguaje-dual/",
   "version": "1.0.0",
   "description": "Analyze Bexar County student performance",
   "main": "src/index.js",

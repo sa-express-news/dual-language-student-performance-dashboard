@@ -38,7 +38,7 @@ class Search extends Component {
 
         return (
             <div className="search">
-                <p className="instructions">Search for a Bexar County elementary, middle or high school:</p>
+                <p className="instructions">Buscar una escuela primaria, media o secundaria del condado de Bexar:</p>
                 <input
                     type="text"
                     placeholder="Eg. Bonham Academy"
@@ -52,7 +52,7 @@ class Search extends Component {
                     { campusList.map(campus => (<option value={campus.name} key={campus.id} />)) }
                 </datalist>
                 <button type="submit" onClick={this.getSchool}><i className="fa fa-search"></i></button>
-                {!isValidCampus && (<div className="no-canvas">... Please select a campus from the dropdown list.</div>)}
+                {!isValidCampus && (<div className="no-canvas">Por favor, busque una escuela en la lista desplegable ^</div>)}
             </div>
         );
     }

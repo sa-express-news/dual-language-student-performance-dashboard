@@ -62,7 +62,7 @@ class App extends Component {
 
         return(
             <div className="App">
-                <NavBar url="https://www.expressnews.com/dual-language-student-performance-explorer/" />
+                <NavBar url="https://www.expressnews.com/explorador-de-rendimiento-del-estudiante-de-lenguaje-dual/" />
                 <div className="wrapper">
                     <Header />
                     <Search
@@ -83,14 +83,14 @@ class App extends Component {
                         setCampus={this.setCampus}
                     />
                     <div className="definitions">
-                        <div className="title">Definitions</div>
+                        <div className="title">Definiciones</div>
                         <ul>
-                            <li><span>Two-way dual language:</span> Integrates native English speakers with native speakers of another language, usually Spanish. All academic subjects are taught in both languages, with the goal of achieving literacy and spoken fluency in both languages.</li>
-                            <li><span>One-way dual language:</span> Serves only students with limited English. All academic subjects are taught in English and another language (usually Spanish) with the goal of achieving literacy and spoken fluency in both languages.</li>
-                            <li><span>Content-based English as a second language:</span> Serves students with limited English. Provides a full-time certified teacher for supplemental help with all academic content areas such as mathematics, science and social studies.</li>
-                            <li><span>Pull-out English as a second language:</span> Serves students with limited English. Provides a part-time certified teacher for English language arts instruction, while students remain in mainstream classes for all other subjects.</li>
+                            <li><span>Lenguaje dual bidireccional:</span> integra hablantes nativos de inglés con hablantes nativos de otro idioma, generalmente español. Todas las materias académicas se imparten en ambos idiomas con el objetivo de lograr la alfabetización y la fluidez en ambos idiomas.</li>
+                            <li><span>Lenguaje dual unidireccional:</span> solo atiende a estudiantes con conocimiento limitado de inglés. Todas las materias académicas se imparten en inglés y en otro idioma (generalmente español) con el objetivo de lograr la alfabetización y la fluidez en ambos idiomas.</li>
+                            <li><span>Inglés basado en el contenido como segundo idioma:</span> atiende a estudiantes con conocimiento limitado de inglés. Proporciona un maestro certificado de tiempo completo para obtener ayuda adicional en todas las áreas académicas, como matemáticas, ciencias y estudios sociales.</li>
+                            <li><span>Inglés como segundo idioma "pull-out":</span> atiende a estudiantes con conocimiento limitado de inglés. Proporciona un maestro certificado de tiempo parcial para la instrucción del idioma inglés, mientras que los estudiantes permanecen en clases regulares para todas las otras materias.</li>
                         </ul>
-                        <div className="note"><em>Note: To mask individual student perfomance in complaince with the Family Educational Rights and Privacy Act, programs with less than five students are not included in this explorer.</em></div>
+                        <div className="note"><em>Nota: para enmascarar el desempeño individual de los estudiantes en conformidad con la Ley de Derechos Educativos de la Familia y de Privacidad, los programas con menos de cinco estudiantes no están incluidos en este sondeo.</em></div>
                     </div>
                 </div>
             </div>

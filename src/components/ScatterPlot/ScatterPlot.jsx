@@ -16,7 +16,7 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
     const padding       = width * 0.04;
     const tabletPad     = window.innerWidth < 980 ? 4 : 0;
     const staarKey      = isOnlyDualLanguage ? 'dual_high_score' : 'ell';
-    const staarLabel    = isOnlyDualLanguage ? 'dual language' : 'EL';
+    const staarLabel    = isOnlyDualLanguage ? 'lenguaje dual' : 'EL';
     
     const xScale = getScale(
         [40, d3.max(campusList.map(campus => campus.staar_scores.all))],
@@ -32,9 +32,9 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
     return (
         <div className="scatter-plot">
             <hr />
-            <div className="title">Schools ranked by average STAAR score</div>
-            <div className="chatter">{`Each red circle represents a Bexar County school and they've been plotted by STAAR score ranking. The vertical axis is the ${staarLabel} STAAR score and the horizontal axis represents the all student average score. Thus, schools in the top right corner performed best on ${staarLabel} program STAAR scores and campuswide. Schools on the bottom left performed worst. The school in the above bar chart is highlighted in blue.`}</div>
-            <div className="action"><em>Click on any school to see performance details in the bar chart above.</em></div>
+            <div className="title">Escuelas clasificadas por puntaje promedio de STAAR</div>
+            <div className="chatter">{`Cada círculo rojo representa una escuela del condado de Bexar y aparecen graficados por la clasificación de puntaje STAAR. El eje vertical es el puntaje STAAR de ${staarLabel} y el eje horizontal representa el puntaje promedio de todos los estudiantes. Por lo tanto, las escuelas en la esquina superior derecha obtuvieron mejores resultados en los puntajes STAAR del programa ${staarLabel} y en todo el campus. Las escuelas en la parte inferior izquierda tuvieron el peor desempeño. El círculo azul representa la escuela resaltada en el gráfica de barras anterior. `}</div>
+            <div className="action"><em>Haga clic en cualquier escuela para ver los detalles de rendimiento en el gráfico de barras anterior.</em></div>
             <svg width={width} height={height}>
                  <g>
                     <Axis
@@ -67,13 +67,13 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
                      <text
                         transform={`translate(${width / 2}, ${height - 10})`}
                         textAnchor="middle"
-                    >Campuswide STAAR score average</text>
+                    >Promedio de puntuación STAAR en todo el escuela</text>
                      <text
                         transform="rotate(-90)"
                         textAnchor="middle"
                         x={height / -2}
                         y="12"
-                    >{`${capitalizeFirstLetter(staarLabel)} STAAR score avg`}</text>
+                    >{`Puntuación STAAR de ${staarLabel}`}</text>
                  </g>
             </svg>
         </div>

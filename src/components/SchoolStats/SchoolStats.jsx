@@ -14,20 +14,20 @@ const SchoolStats = ({
         <div className="block-wrapper">
             <div className="content">
                 <div className="number">{ totalPop }</div>
-                <div className="desc">Total Student Population</div>
+                <div className="desc">Población estudiantil total</div>
             </div>
         </div>
         <div className="block-wrapper">
             <div className="content">
                 <div className="number">{ ellPop }</div>
-                <div className="desc">Total El Population</div>
+                <div className="desc">Población estudiantil EL total</div>
             </div>
         </div>
         <div className="block-wrapper">
             {totalAttnRate && (
                 <div className="content">
                     <div className="number">{ totalAttnRate }</div>
-                    <div className="desc">Total Attendance Rate</div>
+                    <div className="desc">Tasa total de asistencia</div>
                 </div>
             )}
         </div>
@@ -35,7 +35,7 @@ const SchoolStats = ({
             {ellAttnRate && (
                 <div className="content">
                     <div className="number">{ ellAttnRate }</div>
-                    <div className="desc">El Attendance Rate</div>
+                    <div className="desc">Tasa de asistencia de EL</div>
                 </div>
             )}
         </div>
