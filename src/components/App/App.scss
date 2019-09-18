@@ -1,4 +1,14 @@
 div.App {
+    // Assume that all .App root level styles are just me fighting with the WCM in a rage of fury.
+    color: #333;
+    font-size: 16px;
+    line-height: 24px;
+    -webkit-font-smoothing: auto;
+
+    p {
+        font-size: 16px;
+    }
+
     a, a:visited {
         color: #c1081b !important; // !important b/c the WCM is an irrational and violent overlord
         text-decoration: none !important;
@@ -28,6 +38,10 @@ div.App {
         div.title {
             margin-bottom: 5px;
             font-size: 1.1em;
+        }
+
+        div.note {
+            font-size: 0.8em;
         }
 
         ul {

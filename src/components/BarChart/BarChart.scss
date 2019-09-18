@@ -4,7 +4,11 @@ $label-width: 26%;
 
 div.bar-chart {
     width: 100%;
-    min-height: 238px;
+    min-height: none;
+
+    @include mediaquery($default-tablet) {
+        min-height: 238px;
+    }
 
     div.title {
         font-size: 1.1em;
@@ -16,6 +20,7 @@ div.bar-chart {
         @include clearfix;
         max-width: 800px;
         width: 100%;
+        line-height: 18px;
 
         .row-label {
             float: left;

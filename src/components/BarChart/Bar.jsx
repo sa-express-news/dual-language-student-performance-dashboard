@@ -1,7 +1,7 @@
 import React        from 'react';
 import PropTypes    from 'prop-types';
 
-const setBarWidth = (score, max) => score && score > -1 ? `${(+score / max) * 100}%` : '10%';
+const setBarWidth = (score, max) => score && score > -1 ? `${(+score / 100) * 100}%` : '10%'; // Subsititue 100 w/ max for relative bar lengths
 
 const getBarWidthVal = score => score && score > -1 ? score : '';
 

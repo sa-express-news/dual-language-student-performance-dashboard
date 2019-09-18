@@ -7,6 +7,7 @@ div.header {
         font-size: 36px;
         margin: 20px 0;
         text-align: center;
+        line-height: 40px;
     }
 
     p {
@@ -15,7 +16,7 @@ div.header {
         margin-bottom: 1em;
         text-align: center;
 
-        &.byline {
+        &.explorer-byline {
             text-align: center;
             color: #666;
             font-style: italic;

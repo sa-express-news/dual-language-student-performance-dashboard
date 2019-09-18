@@ -13,7 +13,7 @@ describe('Campus model tests', () => {
 
     test('getCampusList returns list of campus name and ID hashes', () => {
         const list = campuses.getCampusList()
-        expect(list[3].name).toBe('Ray D Corbett J H')
-        expect(list[8].id).toBe(9)
+        expect(list[3].name).toBe('Olmos El')
+        expect(list[8].id).toBe(501)
     })
 });

@@ -24,25 +24,29 @@ const SchoolStats = ({
             </div>
         </div>
         <div className="block-wrapper">
-            <div className="content">
-                <div className="number">{ totalAttnRate }</div>
-                <div className="desc">Total Attendance Rate</div>
-            </div>
+            {totalAttnRate && (
+                <div className="content">
+                    <div className="number">{ totalAttnRate }</div>
+                    <div className="desc">Total Attendance Rate</div>
+                </div>
+            )}
         </div>
         <div className="block-wrapper">
-            <div className="content">
-                <div className="number">{ ellAttnRate }</div>
-                <div className="desc">Ell Attendance Rate</div>
-            </div>
+            {ellAttnRate && (
+                <div className="content">
+                    <div className="number">{ ellAttnRate }</div>
+                    <div className="desc">Ell Attendance Rate</div>
+                </div>
+            )}
         </div>
     </div>
 );
 
 SchoolStats.propTypes = {
-    totalPop: PropTypes.number.isRequired,
-    ellPop: PropTypes.number.isRequired,
-    totalAttnRate: PropTypes.number.isRequired,
-    ellAttnRate: PropTypes.number.isRequired,
+    totalPop: PropTypes.number,
+    ellPop: PropTypes.number,
+    totalAttnRate: PropTypes.number,
+    ellAttnRate: PropTypes.number,
 };
 
 export default SchoolStats

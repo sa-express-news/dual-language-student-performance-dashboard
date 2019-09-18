@@ -41,7 +41,7 @@ class Search extends Component {
                 <p className="instructions">Search for a Bexar County elementary, middle or high school:</p>
                 <input
                     type="text"
-                    placeholder="Eg. Alamo Heights HS"
+                    placeholder="Eg. Bonham Academy"
                     id="searchbar"
                     name="searchbar"
                     onChange={this.handleOnChange}

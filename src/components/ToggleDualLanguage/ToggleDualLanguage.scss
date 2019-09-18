@@ -1,6 +1,13 @@
+@import '~express-news-styleguide/init-base';
+
 div.toggle-dual-language {
     text-align: center;
     margin: 20px 0;
+    display: none;
+
+    @include mediaquery($default-tablet) {
+        display: block;
+    }
 
     .container {
         display: inline-block;
