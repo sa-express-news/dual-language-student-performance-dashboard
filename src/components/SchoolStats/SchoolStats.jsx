@@ -26,7 +26,7 @@ const SchoolStats = ({
         <div className="block-wrapper">
             {totalAttnRate && (
                 <div className="content">
-                    <div className="number">{ totalAttnRate }</div>
+                    <div className="number">{ totalAttnRate }%</div>
                     <div className="desc">Total Attendance Rate</div>
                 </div>
             )}
@@ -34,7 +34,7 @@ const SchoolStats = ({
         <div className="block-wrapper">
             {ellAttnRate && (
                 <div className="content">
-                    <div className="number">{ ellAttnRate }</div>
+                    <div className="number">{ ellAttnRate }%</div>
                     <div className="desc">EL Attendance Rate</div>
                 </div>
             )}
