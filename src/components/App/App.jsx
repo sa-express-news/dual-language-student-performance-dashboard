@@ -90,7 +90,7 @@ class App extends Component {
                             <li><span>Inglés basado en el contenido como segundo idioma:</span> atiende a estudiantes con conocimiento limitado de inglés. Proporciona un maestro certificado de tiempo completo para obtener ayuda adicional en todas las áreas académicas, como matemáticas, ciencias y estudios sociales.</li>
                             <li><span>Inglés como segundo idioma "pull-out":</span> atiende a estudiantes con conocimiento limitado de inglés. Proporciona un maestro certificado de tiempo parcial para la instrucción del idioma inglés, mientras que los estudiantes permanecen en clases regulares para todas las otras materias.</li>
                         </ul>
-                        <div className="note"><em>Nota: para enmascarar el desempeño individual de los estudiantes en conformidad con la Ley de Derechos Educativos de la Familia y de Privacidad, los programas con menos de cinco estudiantes no están incluidos en este sondeo.</em></div>
+                        <div className="note"><em>Nota: para enmascarar el desempeño individual de los estudiantes en conformidad con la Ley de Derechos Educativos de la Familia y de Privacidad, cuando menos de 5 estudiantes en el programa tomaron los examenes de STAAR no están incluidos en este sondeo.</em></div>
                     </div>
                 </div>
             </div>

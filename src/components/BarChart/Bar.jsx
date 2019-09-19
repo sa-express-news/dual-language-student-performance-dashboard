@@ -23,7 +23,7 @@ const Bar = ({
                     backgroundColor: setBackgroundColor(score),
                 }}
             >
-                <span className="bar-value">{ getBarWidthVal(score) }</span>
+                <span className="bar-value">{ getBarWidthVal(score) }%</span>
             </span>
         </div>
     </div>

@@ -14,7 +14,7 @@ const getScale = (domain, range) => d3.scaleLinear().domain(domain).range(range)
 const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCampus }) => {
     const height        = width * 0.35;
     const padding       = width * 0.04;
-    const tabletPad     = window.innerWidth < 980 ? 4 : 0;
+    const tabletPad     = window.innerWidth < 980 ? 6 : 0;
     const staarKey      = isOnlyDualLanguage ? 'dual_high_score' : 'ell';
     const staarLabel    = isOnlyDualLanguage ? 'lenguaje dual' : 'EL';
     
@@ -32,8 +32,8 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
     return (
         <div className="scatter-plot">
             <hr />
-            <div className="title">Escuelas clasificadas por puntaje promedio de STAAR</div>
-            <div className="chatter">{`Cada círculo rojo representa una escuela del condado de Bexar y aparecen graficados por la clasificación de puntaje STAAR. El eje vertical es el puntaje STAAR de ${staarLabel} y el eje horizontal representa el puntaje promedio de todos los estudiantes. Por lo tanto, las escuelas en la esquina superior derecha obtuvieron mejores resultados en los puntajes STAAR del programa ${staarLabel} y en todo el campus. Las escuelas en la parte inferior izquierda tuvieron el peor desempeño. El círculo azul representa la escuela resaltada en el gráfica de barras anterior. `}</div>
+            <div className="title">Escuelas clasificadas por porcentaje de aprobación de STAAR</div>
+            <div className="chatter">{`Cada círculo rojo representa una escuela del condado de Bexar y aparecen graficados según la clasificación del porcentaje de aprobación STAAR. El eje vertical es el porcentaje de aprobación STAAR de ${staarLabel} y el eje horizontal representa el porcentaje de aprobación de todos los estudiantes. Por lo tanto, las escuelas en la esquina superior derecha tuvieron un mejor desempeño en el programa ${staarLabel} y en todo el campus. Las escuelas en la parte inferior izquierda tuvieron el peor desempeño. El círculo azul representa la escuela resaltada en el gráfica de barras anterior. `}</div>
             <div className="action"><em>Haga clic en cualquier escuela para ver los detalles de rendimiento en el gráfico de barras anterior.</em></div>
             <svg width={width} height={height}>
                  <g>
@@ -67,13 +67,13 @@ const ScatterPlot = ({ campusList, isOnlyDualLanguage, width, currCampus, setCam
                      <text
                         transform={`translate(${width / 2}, ${height - 10})`}
                         textAnchor="middle"
-                    >Promedio de puntuación STAAR en todo el escuela</text>
+                    >Porcentaje de aprobación STAAR en todo aprobación escuela</text>
                      <text
                         transform="rotate(-90)"
                         textAnchor="middle"
                         x={height / -2}
                         y="12"
-                    >{`Puntuación STAAR de ${staarLabel}`}</text>
+                    >{`% de aprobación STAAR de ${staarLabel}`}</text>
                  </g>
             </svg>
         </div>
