@@ -20,7 +20,7 @@ const SchoolStats = ({
         <div className="block-wrapper">
             <div className="content">
                 <div className="number">{ ellPop }</div>
-                <div className="desc">Total El Population</div>
+                <div className="desc">Total EL Population</div>
             </div>
         </div>
         <div className="block-wrapper">
@@ -35,7 +35,7 @@ const SchoolStats = ({
             {ellAttnRate && (
                 <div className="content">
                     <div className="number">{ ellAttnRate }</div>
-                    <div className="desc">El Attendance Rate</div>
+                    <div className="desc">EL Attendance Rate</div>
                 </div>
             )}
         </div>

@@ -45,7 +45,7 @@ const getMax = staarScores => orderedKeys.reduce((max, key) => {
 
 const BarChart = ({ staarScores, name }) => (
     <div className="bar-chart">
-        <div className="title">{ name } STAAR score average</div>
+        <div className="title">{ name } STAAR passing rate</div>
         { getRows(staarScores, getMax(staarScores)) }
     </div>
 );

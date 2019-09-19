@@ -52,7 +52,7 @@ class Search extends Component {
                     { campusList.map(campus => (<option value={campus.name} key={campus.id} />)) }
                 </datalist>
                 <button type="submit" onClick={this.getSchool}><i className="fa fa-search"></i></button>
-                {!isValidCampus && (<div className="no-canvas">... Please select a campus from the dropdown list.</div>)}
+                {!isValidCampus && (<div className="no-canvas">Please search for a campus found in the dropdown list ^</div>)}
             </div>
         );
     }

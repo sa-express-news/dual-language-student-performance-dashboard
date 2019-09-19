@@ -29,7 +29,7 @@ class Axis extends Component {
         if (this.ref.current) {
             d3.select(this.ref.current)
                 .attr('class', 'axis')
-                .call(d3[type](scale).ticks(6))
+                .call(d3[type](scale).ticks(6).tickFormat(d => `${d}%`))
                 .call(g => g.select('.domain').remove());
         }
     }

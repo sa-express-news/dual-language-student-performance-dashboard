@@ -90,7 +90,7 @@ class App extends Component {
                             <li><span>Content-based English as a second language:</span> Serves students with limited English. Provides a full-time certified teacher for supplemental help with all academic content areas such as mathematics, science and social studies.</li>
                             <li><span>Pull-out English as a second language:</span> Serves students with limited English. Provides a part-time certified teacher for English language arts instruction, while students remain in mainstream classes for all other subjects.</li>
                         </ul>
-                        <div className="note"><em>Note: To mask individual student perfomance in complaince with the Family Educational Rights and Privacy Act, programs with less than five students are not included in this explorer.</em></div>
+                        <div className="note"><em>Note: To mask individual student perfomance in compliance with the Family Educational Rights and Privacy Act, programs with less than five test-takers are not included in this explorer.</em></div>
                     </div>
                 </div>
             </div>
